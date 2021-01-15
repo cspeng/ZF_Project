@@ -1,0 +1,40 @@
+<map id="tds_submit_query_params" name="tds_submit_query_params">
+<area shape="rect" id="node2" href="$a00196.html#a16db200d2281f76fe46fc1cbe37ca9df" title="Set state of TDS connection, with logging and checking. " alt="" coords="768,309,875,336"/>
+<area shape="rect" id="node7" href="$a00359.html#ga6455b2991afbf7da90270787f2059d31" title="Get position of next placeholder. " alt="" coords="504,56,663,83"/>
+<area shape="rect" id="node10" href="$a00359.html#ga3a5d1771cacc947521c4077551f0d3a4" title="Substitute ?&#45;style placeholders with named (@param) ones. " alt="" coords="267,107,409,133"/>
+<area shape="rect" id="node13" href="$a00359.html#ga28264995cf9616661f1fa788ac0d246d" title="Send parameters to server. " alt="" coords="277,259,399,285"/>
+<area shape="rect" id="node15" href="$a00359.html#gafd74652c4722ddce4d642cc4209449d4" title="Put data information to wire. " alt="" coords="516,360,651,387"/>
+<area shape="rect" id="node16" href="$a00359.html#ga024bc5482366735070befd6f4af59f71" title="Convert a string in an allocated buffer. " alt="" coords="752,449,891,476"/>
+<area shape="rect" id="node18" href="$a00359.html#ga9fcc0a3932dcad530511395ef8a767fb" title="Write data to wire. " alt="" coords="531,208,635,235"/>
+<area shape="rect" id="node19" href="$a00359.html#ga9ad2e6defce530a8778791cce0166ccd" title="Start query packet of a given type. " alt="" coords="503,411,663,437"/>
+<area shape="rect" id="node20" href="$a00360.html#ga1fcaf8d488cc1390f106ce3ad0bf37b4" title="Output a string to wire automatic translate string to unicode if needed. " alt="" coords="528,715,639,741"/>
+<area shape="rect" id="node27" href="$a00359.html#ga0cd19215e9169ea299a6c9cbf5b2fb60" title="Count number of placeholders (?) in a query. " alt="" coords="497,770,669,811"/>
+<area shape="rect" id="node31" href="$a00359.html#gac8d5497c2d1b9fadb724111660bd03bd" title="Return string with parameters definition, useful for TDS7+. " alt="" coords="257,522,419,563"/>
+<area shape="rect" id="node36" href="$a00359.html#gab775332d378c7fe083750d624441b303" title="Return string with parameters definition, useful for TDS7+. " alt="" coords="257,587,419,629"/>
+<area shape="rect" id="node37" href="$a00359.html#ga6e42b4a1d1d3898229ea2fe4afc2ecec" title="Output params types and query (required by sp_prepare/sp_executesql/sp_prepexec) " alt="" coords="251,704,425,731"/>
+<area shape="rect" id="node38" href="$a00359.html#ga0f0b6bf447e9672e3b1ea8453ddeb113" title="Send parameter definition to server. " alt="" coords="240,755,436,781"/>
+<area shape="rect" id="node39" href="$a00359.html#gada27f4cfce925240ad33b71b63ca692d" title="Flush query packet. " alt="" coords="498,157,669,184"/>
+<area shape="rect" id="node3" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="1438,424,1541,451"/>
+<area shape="rect" id="node4" href="$a00196.html#abf18b98efef6ce2dc0b97d658a3a1918" title="Call the client library&#39;s error handler (for library&#45;generated errors only) " alt="" coords="1017,367,1089,393"/>
+<area shape="rect" id="node5" href="$a00359.html#ga11338742dc30fd0c2711f58eb830316f" title="tds_send_cancel() sends an empty packet (8 byte header only) tds_process_cancel should be called dire..." alt="" coords="1221,348,1351,375"/>
+<area shape="rect" id="node6" href="$a00360.html#ga5feb53554e8917a81bbbc332163a61fb" title="Flush packet to server. " alt="" coords="1425,271,1553,297"/>
+<area shape="rect" id="node8" href="$a00359.html#ga5dbe51ce9533218f2da23f69ff63dda4" title="Skip quoting string (like &#39;sfsf&#39;, &quot;dflkdj&quot; or [dfkjd]) " alt="" coords="759,5,884,32"/>
+<area shape="rect" id="node9" href="$a00359.html#gaac7347ba9380d77d726648b85e9fab8f" title="Skip a comment in a query. " alt="" coords="752,56,891,83"/>
+<area shape="rect" id="node11" href="$a00361.html#gad96366d9fa93bfc283cef1299fbe97ab" title="copy a string from another " alt="" coords="528,107,639,133"/>
+<area shape="rect" id="node12" href="$a00361.html#ga656718f240d7403f986ae887d84a6ca1" title="Set string to a given buffer of characters. " alt="" coords="762,107,881,133"/>
+<area shape="rect" id="node14" href="$a00359.html#ga319d610d59b2cc669b7fe20c793122af" title="Calc information length in bytes (useful for calculating full packet length) " alt="" coords="1195,247,1377,273"/>
+<area shape="rect" id="node17" href="$a00357.html#ga87db49044919f1bc84c0ff5e9ab00304" title="Wrapper around iconv(3). " alt="" coords="1012,500,1095,527"/>
+<area shape="rect" id="node21" href="$a00266.html#aa9e1e45f0305622dd6aed9f8fe158581" title="Initialize an input stream for read from a static allocated buffer. " alt="" coords="736,753,907,780"/>
+<area shape="rect" id="node23" href="$a00266.html#aa038a9125979f8f0915dbd53cbf27e5a" title="Initialize a data output stream. " alt="" coords="735,804,908,831"/>
+<area shape="rect" id="node25" href="$a00266.html#a9d8eb43a81ff58ab423dce0ce95b9564" title="Reads and writes from a stream converting characters. " alt="" coords="748,703,895,729"/>
+<area shape="rect" id="node22" href="$a00266.html#a76b02f1fa5b79dc7e1ef2651a9afe3f7" title="Reads data from a static allocated buffer. " alt="" coords="963,745,1144,772"/>
+<area shape="rect" id="node24" href="$a00266.html#ae38a590ee08cf398e7adef536ac94538" title="Writes data to network for output stream. " alt="" coords="980,797,1127,838"/>
+<area shape="rect" id="node26" href="$a00196.html#a79449d2f35a8acc8ed0585044f75524d" title="Dump the contents of data into the log file in a human readable format. " alt="" coords="982,644,1125,671"/>
+<area shape="rect" id="node28" href="$a00359.html#gaa823973b74efdf1ff00f340496bff614" title="Found the next placeholder (? or @param) in a string. " alt="" coords="742,855,901,897"/>
+<area shape="rect" id="node29" href="$a00359.html#ga2361ec4629aa0eac38f1702b03ed8185" title="Return pointer to end of a quoted string. " alt="" coords="967,913,1140,940"/>
+<area shape="rect" id="node30" href="$a00359.html#gab304fda9f325e852ba5c5252079d22e3" title="Skip a comment in a query. " alt="" coords="960,863,1147,889"/>
+<area shape="rect" id="node32" href="$a00359.html#ga50d62edeb2a432e2dc668263f3f958ff" title="Return declaration for column (like &quot;varchar(20)&quot;) " alt="" coords="484,563,683,589"/>
+<area shape="rect" id="node35" href="$a00359.html#gad05fc65e1d505c68d14c82b99a00e4eb" title="Accept an ASCII string, convert it to UCS2&#45;LE The input is null&#45;terminated, but the output excludes t..." alt="" coords="516,664,651,691"/>
+<area shape="rect" id="node33" href="$a00359.html#ga440f0f469afad1eac4c008979873ccdd" title="Get column size for wire. " alt="" coords="747,652,895,679"/>
+<area shape="rect" id="node34" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="731,601,912,628"/>
+</map>

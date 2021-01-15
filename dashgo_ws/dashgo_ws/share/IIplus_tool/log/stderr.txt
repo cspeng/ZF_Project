@@ -1,0 +1,493 @@
+
+Exception AttributeError: "Cursor instance has no attribute 'closed'" in <bound method Cursor.__del__ of <pypyodbc.Cursor instance at 0x0BFF0418>> ignored
+Exception AttributeError: "Cursor instance has no attribute 'closed'" in <bound method Cursor.__del__ of <pypyodbc.Cursor instance at 0x0BFEE828>> ignored
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 587, in callit
+    func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 363, in onTimeout
+    self.transferE2()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 331, in transferE2
+    E2BUSY= self.rCH.get('E2BUSY')
+AttributeError: 'NoneType' object has no attribute 'get'
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4))
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:281: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\Temp\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:283: RuntimeWarning: divide by zero encountered in long_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 278, in shapeProc
+    y = eval(self.rCH.get('dataShape'))
+  File "<string>", line 1
+    <generator object at 0x0385C030>
+    ^
+SyntaxError: invalid syntax
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 278, in shapeProc
+    y = eval(self.rCH.get('dataShape'))
+  File "<string>", line 1
+    <generator object at 0x03C13390>
+    ^
+SyntaxError: invalid syntax
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:282: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 278, in shapeProc
+    y = eval(self.rCH.get('dataShape'))
+  File "<string>", line 1
+    <generator object at 0x075711E0>
+    ^
+SyntaxError: invalid syntax
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:282: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:282: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:282: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 587, in callit
+    func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 368, in onTimeout
+    self.mbBXkey()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 315, in mbBXkey
+    alt_stat= eval(self.rCH.get('altSTAT')) + ['None']
+  File "D:\Anaconda2\lib\site-packages\redis\client.py", line 880, in get
+    return self.execute_command('GET', name)
+  File "D:\Anaconda2\lib\site-packages\redis\client.py", line 578, in execute_command
+    connection.send_command(*args)
+  File "D:\Anaconda2\lib\site-packages\redis\connection.py", line 563, in send_command
+    self.send_packed_command(self.pack_command(*args))
+  File "D:\Anaconda2\lib\site-packages\redis\connection.py", line 538, in send_packed_command
+    self.connect()
+  File "D:\Anaconda2\lib\site-packages\redis\connection.py", line 442, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 10060 connecting to localhost:6379. 連線嘗試失敗，因為連線對象有一段時間並未正確回應，或是連線建立失敗，因為連線的主機無.
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:282: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py:282: RuntimeWarning: invalid value encountered in double_scalars
+  figtext(0.5,0.5,round(Y.sum()/len(Y),4),size='medium',color='magenta')
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 281, in shapeProc
+    Y= np.abs(Y[Y>0]); argYmax = Y.argmax()
+ValueError: attempt to get argmax of an empty sequence
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 412, in onExit
+    self.cancel()
+  File "tkForm2.py", line 394, in cancel
+    if self._job is not None:
+AttributeError: winApp instance has no attribute '_job'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 412, in onExit
+    self.cancel()
+  File "tkForm2.py", line 394, in cancel
+    if self._job is not None:
+AttributeError: winApp instance has no attribute '_job'
+Traceback (most recent call last):
+  File "bspview.py", line 399, in <module>
+    main()
+  File "bspview.py", line 388, in main
+    while(r.get('mbNew')=='True'):
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "bspview.py", line 399, in <module>
+    main()
+  File "bspview.py", line 388, in main
+    while(r.get('mbNew')=='True'):
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 587, in callit
+    func(*args)
+  File "tkForm2.py", line 1117, in onAppTimeout
+    app.dataShow()
+  File "tkForm2.py", line 387, in dataShow
+    self.transferE2()
+  File "tkForm2.py", line 355, in transferE2
+    E2BUSY= self.rCH.get('E2BUSY')
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 412, in onExit
+    self.cancel()
+  File "tkForm2.py", line 394, in cancel
+    if self._job is not None:
+AttributeError: winApp instance has no attribute '_job'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 412, in onExit
+    self.cancel()
+  File "tkForm2.py", line 394, in cancel
+    if self._job is not None:
+AttributeError: winApp instance has no attribute '_job'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 414, in onExit
+    self.root.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1858, in destroy
+    for c in self.children.values(): c.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2095, in destroy
+    for c in self.children.values(): c.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Traceback (most recent call last):
+  File "bspview.py", line 399, in <module>
+    main()
+  File "bspview.py", line 388, in main
+    while(r.get('mbNew')=='True'):
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 104, in onBoxchange
+    msg= self.mbBXkey()
+  File "tkForm2.py", line 327, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 414, in onExit
+    self.root.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1858, in destroy
+    for c in self.children.values(): c.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 414, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 414, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 104, in onBoxchange
+    msg= self.mbBXkey()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 327, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "bspview.py", line 405, in <module>
+    main(ts=True)
+  File "bspview.py", line 387, in main
+    app= winApp(DS,r)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 64, in __init__
+    self.rCH.set('mbNew',False)
+AttributeError: 'NoneType' object has no attribute 'set'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 414, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 414, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 104, in onBoxchange
+    msg= self.mbBXkey()
+  File "tkForm2.py", line 327, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 414, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 414, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 104, in onBoxchange
+    msg= self.mbBXkey()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 327, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 587, in callit
+    func(*args)
+  File "tkForm2.py", line 84, in onTimeout
+    self.dataShow()
+  File "tkForm2.py", line 389, in dataShow
+    self.transferE2()
+  File "tkForm2.py", line 357, in transferE2
+    E2BUSY= self.rCH.get('E2BUSY')
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 105, in onBoxchange
+    msg= self.mbBXkey()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 328, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "bspview.py", line 405, in <module>
+    main(ts=True)
+  File "bspview.py", line 387, in main
+    app= winApp(DS,r)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 64, in __init__
+    self.rCH.set('mbNew',False)
+AttributeError: 'NoneType' object has no attribute 'set'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 415, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 415, in onExit
+    self.toptimer.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 403, in onNew
+    self.root.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1858, in destroy
+    for c in self.children.values(): c.destroy()
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 2099, in destroy
+    Misc.destroy(self)
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 440, in destroy
+    self.tk.deletecommand(name)
+TclError: can't delete Tcl command
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 1134, in onAll
+    self.ui['acol'].set(tt.tree["columns"][aix])
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1330, in cget
+    return self.tk.call(self._w, 'cget', '-' + key)
+TclError: invalid command name ".122254640.119199584"
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "tkForm2.py", line 103, in onBoxchange
+    msg= self.mbBXkey()
+  File "tkForm2.py", line 326, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 103, in onBoxchange
+    msg= self.mbBXkey()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 326, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "bspview.py", line 405, in <module>
+    main(ts=True)
+  File "bspview.py", line 387, in main
+    app= winApp(DS,r)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 64, in __init__
+    self.rCH.set('mbNew',False)
+AttributeError: 'NoneType' object has no attribute 'set'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "D:\Anaconda2\lib\lib-tk\Tkinter.py", line 1536, in __call__
+    return self.func(*args)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 103, in onBoxchange
+    msg= self.mbBXkey()
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 326, in mbBXkey
+    if self.rCH.get('mbNew')!='True':
+AttributeError: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "bspview.py", line 405, in <module>
+    main(ts=True)
+  File "bspview.py", line 387, in main
+    app= winApp(DS,r)
+  File "Y:\TEMP\Clarence\scripts\TQII\II_tools\tkForm2.py", line 64, in __init__
+    self.rCH.set('mbNew',False)
+AttributeError: 'NoneType' object has no attribute 'set'

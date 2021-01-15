@@ -1,0 +1,8 @@
+prefix=/home/eaibot/dashgo_ws/install
+
+Name: pemsgo
+Description: Description of pemsgo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eaibot/dashgo_ws/install/lib 
+Requires: roscpp std_msgs message_runtime

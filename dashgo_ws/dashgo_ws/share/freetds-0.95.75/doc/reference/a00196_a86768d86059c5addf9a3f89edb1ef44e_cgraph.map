@@ -1,0 +1,5 @@
+<map id="tds_set_param_type" name="tds_set_param_type">
+<area shape="rect" id="node2" href="$a00301.html#a7d6ccf355d1fc24711b5cd5bbc23a931" title="Set type of column initializing all dependency. " alt="" coords="204,31,359,57"/>
+<area shape="rect" id="node3" href="$a00196.html#a68855f1251759a6b7338635306ab0041" title="tds_get_varint_size() returns the size of a variable length integer returned in a TDS 7..." alt="" coords="413,5,559,32"/>
+<area shape="rect" id="node4" href="$a00196.html#aa70b02ff34ac03040ca41f13d5fd35bd" title="Return the number of bytes needed by specified type. " alt="" coords="407,56,565,83"/>
+</map>

@@ -1,0 +1,179 @@
+
+
+III_inone start at 09:19:32
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 09:19:36 ---
+
+III_inone end at 09:30:44
+
+
+III_inone start at 09:30:48
+
+
+III_inone start at 09:35:29
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 09:35:31 ---
+
+III_inone end at 09:47:20
+
+
+III_inone start at 09:47:24
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 09:47:27 ---
+
+III_inone end at 09:48:54
+
+
+III_inone start at 09:48:58
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 09:49:01 ---
+
+III_inone end at 10:00:20
+
+
+III_inone start at 10:01:29
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 10:01:32 ---
+
+III_inone end at 10:06:53
+
+
+III_inone start at 10:06:57
+
+
+III_inone start at 10:07:26
+
+
+III_inone start at 10:07:26
+TOOL is not the first instance
+III_inone end at 10:07:29
+TOOL is not the first instance
+III_inone end at 10:07:29
+
+
+III_inone start at 10:08:25
+TOOL is not the first instance
+III_inone end at 10:08:28
+
+
+III_inone start at 10:14:27
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 10:14:30 ---
+
+III_inone end at 10:19:09
+
+
+III_inone start at 10:27:31
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 10:27:34 ---
+
+III_inone end at 10:36:16
+
+
+III_inone start at 10:36:22
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 10:36:24 ---
+
+III_inone end at 10:49:05
+
+
+III_inone start at 11:40:33
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 11:40:36 ---
+
+III_inone end at 11:44:47
+
+
+III_inone start at 11:44:49
+
+
+III_inone start at 11:44:49
+TOOL is not the first instance
+III_inone end at 11:44:53
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 11:44:52 ---
+
+III_inone end at 11:46:27
+
+
+III_inone start at 11:46:30
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 11:46:32 ---
+
+III_inone end at 11:46:47
+
+
+III_inone start at 11:47:47
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-27 11:47:51 ---
+
+III_inone end at 11:48:02
+
+
+III_inone start at 11:50:02
+
+
+III_inone start at 15:54:32
+
+
+III_inone start at 16:38:33

@@ -1,0 +1,99 @@
+
+Tool start at 11:22:10
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-12-03 13:16:37 ---
+
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+local setup...
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+
+Tool start at 13:16:41
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+KeyError: None
+Exception KeyError: (None,) in 'pi_modbus.AD_emit' ignored
+TOOL is not the first instance
+Tool end at 13:16:46
+
+Tool start at 13:17:13
+
+Tool start at 13:17:17
+TOOL is not the first instance
+Tool end at 13:17:18
+TOOL is not the first instance
+Tool end at 13:17:22
+app starts now.
+--offset value at -0.0547--
+
+App end here.
+--- Data Source closed on 19-12-03 13:17:35 ---
+clean up serial service!
+Tool end at 13:17:35
+
+Tool start at 13:17:36
+
+Tool start at 13:17:38
+TOOL is not the first instance
+Tool end at 13:17:43

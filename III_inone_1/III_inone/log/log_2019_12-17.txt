@@ -1,0 +1,125 @@
+
+III_inone start at 08:37:58
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-17 08:38:02 ---
+
+local setup...
+app starts now.
+--offset value at 1.2--
+--offset value at -1.8--
+--offset value at 4.2--
+--offset value at 1.4--
+
+App end here.
+--- Data Source closed on 19-12-17 08:38:58 ---
+close serial SafePort.
+III_inone end at 08:38:59
+
+III_inone start at 09:04:25
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-17 09:04:28 ---
+
+local setup...
+app starts now.
+--offset value at -3.4--
+
+App end here.
+--- Data Source closed on 19-12-17 09:04:41 ---
+close serial SafePort.
+III_inone end at 09:04:41
+
+III_inone start at 09:06:57
+
+
+
+ESP32 is ready.
+III_inone end at 09:07:15
+
+III_inone start at 09:10:51
+
+
+
+ESP32 is ready.
+Traceback (most recent call last):
+  File "/home/eaibot/III_inone/bspview.py", line 419, in <module>
+    main()
+  File "/home/eaibot/III_inone/bspview.py", line 407, in main
+    self.stdlogOpen()
+NameError: global name 'self' is not defined
+miss data at speed:9200!
+close serial SafePort.
+III_inone end at 09:12:39
+
+III_inone start at 09:14:42
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-17 09:14:45 ---
+
+III_inone end at 09:14:53
+
+III_inone start at 09:14:54
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-17 09:14:56 ---
+
+III_inone end at 09:16:11
+
+III_inone start at 15:58:47
+
+III_inone start at 15:58:49
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 222, in close
+    self.serial.close()
+AttributeError: Channel instance has no attribute 'serial'
+Error in sys.exitfunc:
+
+
+
+channel not ready!
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 222, in close
+    self.serial.close()
+AttributeError: Channel instance has no attribute 'serial'
+III_inone end at 15:58:51
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 222, in close
+    self.serial.close()
+AttributeError: Channel instance has no attribute 'serial'
+Error in sys.exitfunc:
+
+
+
+channel not ready!
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 222, in close
+    self.serial.close()
+AttributeError: Channel instance has no attribute 'serial'
+III_inone end at 15:58:52

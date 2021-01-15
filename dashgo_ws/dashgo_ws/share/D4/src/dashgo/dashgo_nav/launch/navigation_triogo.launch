@@ -1,0 +1,44 @@
+<!-- html tags -->
+<launch>
+  <include file="$(find dashgo_driver)/launch/demo_imu.launch"/>
+  <include file="$(find flashgo)/launch/flash_lidar.launch"/>
+
+  <node name="serial_node" pkg="rosserial_python" type="serial_node.py" output="screen">
+  <param name="port" value="/dev/port3"/>
+  <param name="baud" value="57600"/>
+  </node>
+  <node name="triogo_joystick" pkg="dashgo_tools" type="triogo_joystick.py" output="screen">
+  </node>
+
+  <include file="$(find dashgo_description)/launch/dashgo_description.launch"/>
+  <node name="robot_pose_publisher" pkg="robot_pose_publisher" type="robot_pose_publisher" />
+
+<!--
+  <arg name="map_file" default="$(find dashgo_nav)/maps/retest_map2.yaml"/>
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+  <arg name="initial_pose_x" default="0.0"/> 
+  <arg name="initial_pose_y" default="0.0"/> 
+  <arg name="initial_pose_a" default="0.0"/>
+  <include file="$(find dashgo_nav)/launch/include/imu/amcl.launch.xml">
+    <arg name="initial_pose_x" value="$(arg initial_pose_x)"/>
+    <arg name="initial_pose_y" value="$(arg initial_pose_y)"/>
+    <arg name="initial_pose_a" value="$(arg initial_pose_a)"/>
+  </include>
+  
+  <include file="$(find dashgo_nav)/launch/include/imu/teb_move_base.launch"/>
+  <include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"/>
+
+  <node pkg="laser_filters" type="scan_to_scan_filter_chain" output="screen" name="laser_filter">
+      <rosparam command="load" file="$(find dashgo_tools)/conf/box_filter.yaml" />
+  </node>
+-->
+  <node name="triogo_track" pkg="dashgo_tools" type="triogo_track.py" output="screen">
+
+      <rosparam command="load" file="$(find dashgo_tools)/params/NAVI_F5D0.yaml" />
+  </node>
+
+  <node name="check_msg_interface" pkg="rosserial_server" type="socket_node" output="screen"
+	args="check_msg:=/interface" />
+
+</launch>
+

@@ -1,0 +1,9 @@
+Welcome, III inone starts here @2020
+
+local setup...
+app starts now.
+--offset value at 10.4--
+
+App end here.
+--- Data Source closed on 20-03-05 08:34:26 ---
+close serial SafePort.

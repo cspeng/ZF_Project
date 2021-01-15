@@ -1,0 +1,7 @@
+<map id="dbconvert" name="dbconvert">
+<area shape="rect" id="node2" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="468,61,571,87"/>
+<area shape="rect" id="node3" href="$a00196.html#aa70b02ff34ac03040ca41f13d5fd35bd" title="Return the number of bytes needed by specified type. " alt="" coords="137,35,296,62"/>
+<area shape="rect" id="node4" href="$a00238.html#aea6a865806d454280126de940478c214" title="dbgetnull" alt="" coords="177,86,256,113"/>
+<area shape="rect" id="node5" href="$a00350.html#ga302a4ce6559b81808e3be51615cd1b67" title="Call client&#45;installed error handler. " alt="" coords="344,111,420,138"/>
+<area shape="rect" id="node6" href="$a00356.html#gaa865e08f7ad70ef92b111c2ea3657457" title="tds_convert convert a type to another. " alt="" coords="169,187,265,214"/>
+</map>

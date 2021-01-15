@@ -1,0 +1,360 @@
+
+
+III_inone start at 09:18:20
+
+
+III_inone start at 09:35:21
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 09:35:24 ---
+
+III_inone end at 09:35:39
+
+
+III_inone start at 09:48:17
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 09:48:21 ---
+
+III_inone end at 10:14:38
+
+
+III_inone start at 10:15:41
+
+
+III_inone start at 10:15:42
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 126, in mainloop_thread
+    data = self.ds_listern()
+  File "/home/eaibot/III_inone/III_inone.py", line 188, in ds_listern
+    data = self.serial.readline()
+  File "/usr/local/lib/python2.7/dist-packages/pyserial-3.4-py2.7.egg/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+
+
+
+ESP32 is ready.
+ds-stream error at loop:0!
+ds-stream error at loop:0!
+
+Tools odbc data source...
+--- connected on 20-01-09 10:15:45 ---
+
+III_inone end at 10:18:34
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 10:15:45 ---
+
+III_inone end at 10:18:39
+
+
+III_inone start at 10:18:42
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 10:18:44 ---
+
+III_inone end at 11:00:51
+
+
+III_inone start at 11:06:17
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 11:06:21 ---
+
+III_inone end at 11:35:08
+
+
+III_inone start at 13:51:41
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 13:51:45 ---
+
+III_inone end at 13:52:23
+
+
+III_inone start at 14:37:57
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 14:38:00 ---
+
+not connect
+
+III_inone end at 15:32:17
+
+
+III_inone start at 15:32:19
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:32:22 ---
+
+not connect
+
+III_inone end at 15:32:41
+
+
+III_inone start at 15:32:52
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:32:55 ---
+
+not connect
+
+III_inone end at 15:33:22
+
+
+III_inone start at 15:33:40
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:33:43 ---
+
+not connect
+
+III_inone end at 15:34:03
+
+
+III_inone start at 15:34:11
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:34:14 ---
+
+not connect
+
+III_inone end at 15:34:22
+
+
+III_inone start at 15:36:07
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:36:11 ---
+
+III_inone end at 15:36:25
+
+
+III_inone start at 15:36:32
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:36:35 ---
+
+III_inone end at 15:36:52
+
+
+III_inone start at 15:37:32
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:37:34 ---
+
+III_inone end at 15:42:11
+
+
+III_inone start at 15:42:26
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:42:29 ---
+
+III_inone end at 15:43:07
+
+
+III_inone start at 15:43:09
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 15:43:12 ---
+
+III_inone end at 16:02:21
+
+
+III_inone start at 16:04:24
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 16:04:28 ---
+
+III_inone end at 16:04:36
+
+
+III_inone start at 16:04:41
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-09 16:04:44 ---
+
+III_inone end at 16:10:18
+
+
+III_inone start at 16:11:35
+
+
+III_inone start at 16:11:35
+TOOL is not the first instance
+III_inone end at 16:11:39
+
+
+III_inone start at 16:12:03
+
+
+III_inone start at 16:11:52
+invalid command name ".1958737640.1958774464.1958774824"
+    while executing
+"$w index @$x"
+    (procedure "EntryClosestGap" line 2)
+    invoked from within
+"EntryClosestGap $w $x"
+    (procedure "tk::EntryButton1" line 7)
+    invoked from within
+"tk::EntryButton1 .1958737640.1958774464.1958774824 118"
+    (command bound to event)
+
+
+III_inone start at 16:11:54
+
+
+III_inone start at 16:11:54
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 126, in mainloop_thread
+    data = self.ds_listern()
+  File "/home/eaibot/III_inone/III_inone.py", line 188, in ds_listern
+    data = self.serial.readline()
+  File "/usr/local/lib/python2.7/dist-packages/pyserial-3.4-py2.7.egg/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+
+
+III_inone start at 16:11:54
+
+
+III_inone start at 16:14:01
+
+
+III_inone start at 16:14:01
+TOOL is not the first instance
+III_inone end at 16:14:06
+
+
+III_inone start at 16:12:04
+
+
+III_inone start at 16:12:04
+
+
+III_inone start at 16:12:05
+TOOL is not the first instance
+TOOL is not the first instance
+III_inone end at 16:12:09
+III_inone end at 16:12:09
+
+
+III_inone start at 16:12:48
+
+
+III_inone start at 16:12:48
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 126, in mainloop_thread
+    data = self.ds_listern()
+  File "/home/eaibot/III_inone/III_inone.py", line 188, in ds_listern
+    data = self.serial.readline()
+  File "/usr/local/lib/python2.7/dist-packages/pyserial-3.4-py2.7.egg/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+
+
+III_inone start at 16:12:22
+
+
+III_inone start at 16:12:01
+
+
+III_inone start at 16:12:00
+
+
+III_inone start at 16:12:03
+
+
+III_inone start at 16:11:50

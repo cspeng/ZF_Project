@@ -1,0 +1,2 @@
+dashgo/dashgo_description:dashgo/dashgo_driver:dashgo/dashgo_nav:dashgo/dashgo_rviz:dashgo/dashgo_tools:dashgo/flashgo-2.3.1:dashgo/hector_exploration_node:dashgo/hector_exploration_planner:dashgo/pathgo_imu:dashgo/rosserial_arduino:dashgo/rosserial_python:dashgo/rplidar_ros:dashgo/ydlidar:pemsgo:pot3b:v_msgs
+-DCATKIN_DEVEL_PREFIX=/home/eaibot/dashgo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eaibot/dashgo_ws/install -G Unix Makefiles

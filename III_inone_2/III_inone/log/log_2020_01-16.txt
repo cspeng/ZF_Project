@@ -1,0 +1,385 @@
+
+
+III_inone start at 14:23:59
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:24:02 ---
+
+III_inone end at 14:33:47
+
+
+III_inone start at 14:36:45
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:36:48 ---
+
+III_inone end at 14:45:41
+
+
+III_inone start at 14:45:52
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:45:54 ---
+
+III_inone end at 14:46:12
+
+
+III_inone start at 14:47:16
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:47:19 ---
+
+III_inone end at 14:47:27
+
+
+III_inone start at 14:47:29
+
+
+III_inone start at 14:47:29
+
+
+III_inone start at 14:47:29
+TOOL is not the first instance
+III_inone end at 14:47:32
+TOOL is not the first instance
+III_inone end at 14:47:32
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:47:32 ---
+
+III_inone end at 14:47:44
+
+
+III_inone start at 14:47:47
+
+
+III_inone start at 14:47:47
+TOOL is not the first instance
+III_inone end at 14:47:50
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:47:49 ---
+
+III_inone end at 14:48:02
+
+
+III_inone start at 14:48:14
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/lib-tk/Tkinter.py", line 1540, in __call__
+    return self.func(*args)
+  File "/usr/lib/python2.7/lib-tk/Tkinter.py", line 590, in callit
+    func(*args)
+  File "/home/eaibot/III_inone/II_tkForm2.py", line 86, in onTimeout
+    self.dataShow()
+  File "/home/eaibot/III_inone/II_tkForm2.py", line 382, in dataShow
+    self.transferE2()
+  File "/home/eaibot/III_inone/II_tkForm2.py", line 353, in transferE2
+    E2BUSY= self.rCH.get('E2BUSY')
+AttributeError: 'NoneType' object has no attribute 'get'
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:48:16 ---
+
+III_inone end at 14:48:24
+
+
+III_inone start at 14:48:29
+
+
+III_inone start at 14:48:29
+
+
+III_inone start at 14:48:29
+TOOL is not the first instance
+III_inone end at 14:48:33
+TOOL is not the first instance
+III_inone end at 14:48:33
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:48:32 ---
+
+III_inone end at 14:48:39
+
+
+III_inone start at 14:48:42
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:48:45 ---
+
+III_inone end at 14:48:53
+
+
+III_inone start at 14:48:55
+
+
+III_inone start at 14:48:55
+
+
+III_inone start at 14:48:56
+TOOL is not the first instance
+III_inone end at 14:48:59
+TOOL is not the first instance
+III_inone end at 14:48:59
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:48:58 ---
+
+III_inone end at 14:49:05
+
+
+III_inone start at 14:49:07
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:49:10 ---
+
+III_inone end at 14:49:18
+
+
+III_inone start at 14:49:21
+
+
+III_inone start at 14:49:21
+TOOL is not the first instance
+III_inone end at 14:49:24
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:49:24 ---
+
+III_inone end at 14:49:34
+
+
+III_inone start at 14:52:27
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:52:30 ---
+
+III_inone end at 14:52:45
+
+
+III_inone start at 14:54:53
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:54:56 ---
+
+III_inone end at 14:55:05
+
+
+III_inone start at 14:55:10
+
+
+III_inone start at 14:55:43
+TOOL is not the first instance
+III_inone end at 14:55:47
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:55:13 ---
+
+III_inone end at 14:58:04
+
+
+III_inone start at 14:58:06
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:58:08 ---
+
+III_inone end at 14:58:22
+
+
+III_inone start at 14:58:27
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:58:29 ---
+
+III_inone end at 14:58:37
+
+
+III_inone start at 14:58:40
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:58:43 ---
+
+III_inone end at 14:59:06
+
+
+III_inone start at 14:59:09
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 14:59:12 ---
+
+III_inone end at 14:59:36
+
+
+III_inone start at 15:04:20
+
+
+III_inone start at 15:18:54
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:18:56 ---
+
+III_inone end at 15:20:06
+
+
+III_inone start at 15:20:10
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:20:13 ---
+
+III_inone end at 15:20:33
+
+
+III_inone start at 15:20:55
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:20:58 ---
+
+III_inone end at 15:21:42
+
+
+III_inone start at 15:21:50
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:21:53 ---
+
+III_inone end at 15:22:06
+
+
+III_inone start at 15:23:02
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:23:05 ---
+
+III_inone end at 15:23:13
+
+
+III_inone start at 15:26:47
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:26:50 ---
+
+III_inone end at 15:28:29
+
+
+III_inone start at 15:29:13
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:29:16 ---
+
+III_inone end at 15:29:23
+
+
+III_inone start at 15:29:42
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-16 15:29:45 ---
+
+III_inone end at 18:54:53

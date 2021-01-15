@@ -1,0 +1,22 @@
+<!--
+  Used for visualising rplidar in action.  
+  
+  It requires rplidar.launch.
+ -->
+<launch>
+  <include file="$(find rplidar_ros)/launch/rplidar.launch" />
+
+  <include file="$(find pathgo_imu)/launch/demo.launch"/>
+
+  <node name="serial_node" pkg="rosserial_python" type="serial_node.py" output="screen">
+  <param name="port" value="/dev/port3"/>
+  <param name="baud" value="57600"/>
+  </node>
+
+  <node name="check_msg_chatter"  pkg="rosserial_server" type="socket_node" output="screen"
+    args="check_msg:=/chatter" />
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find rplidar_ros)/rviz/rplidar.rviz" />
+
+</launch>
+

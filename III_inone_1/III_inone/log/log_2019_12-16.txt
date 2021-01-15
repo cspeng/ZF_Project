@@ -1,0 +1,517 @@
+
+III_inone start at 13:04:25
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 13:04:28 ---
+
+local setup...
+app starts now.
+--offset value at -9.2--
+--offset value at -9.3--
+--offset value at -9.0--
+--offset value at -6.8--
+miss data at speed:9100!
+
+App end here.
+--- Data Source closed on 19-12-16 13:11:24 ---
+close serial SafePort.
+III_inone end at 13:11:24
+
+III_inone start at 13:11:24
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 13:11:27 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 13:11:40 ---
+close serial SafePort.
+III_inone end at 13:11:41
+
+III_inone start at 13:17:57
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 13:18:00 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 13:18:10 ---
+close serial SafePort.
+III_inone end at 13:18:11
+
+III_inone start at 13:18:33
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 13:18:35 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 13:18:46 ---
+close serial SafePort.
+III_inone end at 13:18:47
+
+III_inone start at 13:32:38
+
+III_inone start at 13:32:48
+TOOL is not the first instance
+III_inone end at 13:32:51
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 13:32:40 ---
+
+local setup...
+app starts now.
+--offset value at -15.2--
+--offset value at -15.7--
+
+App end here.
+--- Data Source closed on 19-12-16 13:34:30 ---
+close serial SafePort.
+III_inone end at 13:34:30
+
+III_inone start at 13:35:28
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 13:35:31 ---
+
+local setup...
+app starts now.
+--offset value at -14.2--
+--offset value at -20.4--
+--offset value at -17.0--
+--offset value at -22.9--
+--offset value at -20.7--
+
+App end here.
+--- Data Source closed on 19-12-16 13:53:16 ---
+close serial SafePort.
+III_inone end at 13:53:17
+
+III_inone start at 14:00:22
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:00:25 ---
+
+local setup...
+app starts now.
+--offset value at -21.3--
+--offset value at -22.4--
+miss data at speed:9200!
+--offset value at -17.4--
+--offset value at -22.6--
+--offset value at -22.3--
+--offset value at -22.8--
+III_inone end at 14:21:25
+
+III_inone start at 14:24:55
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:25:00 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 14:25:17 ---
+close serial SafePort.
+III_inone end at 14:25:17
+
+III_inone start at 14:25:26
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:25:29 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 14:25:43 ---
+close serial SafePort.
+III_inone end at 14:25:44
+
+III_inone start at 14:25:52
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:25:55 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 14:26:03 ---
+close serial SafePort.
+III_inone end at 14:26:04
+
+III_inone start at 14:26:38
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:26:41 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 14:27:04 ---
+close serial SafePort.
+III_inone end at 14:27:04
+
+III_inone start at 14:27:32
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:27:34 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 14:27:42 ---
+close serial SafePort.
+III_inone end at 14:27:43
+
+III_inone start at 14:27:58
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 14:28:01 ---
+
+local setup...
+app starts now.
+--offset value at -20.1--
+--offset value at -20.4--
+
+App end here.
+--- Data Source closed on 19-12-16 14:31:12 ---
+close serial SafePort.
+III_inone end at 14:31:13
+
+III_inone start at 14:52:26
+
+III_inone start at 15:02:37
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:02:41 ---
+
+local setup...
+app starts now.
+--offset value at -7.2--
+--offset value at -9.0--
+
+III_inone start at 15:20:06
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:20:09 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 15:20:44 ---
+close serial SafePort.
+III_inone end at 15:20:44
+
+III_inone start at 15:20:44
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:20:47 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 15:21:22 ---
+close serial SafePort.
+III_inone end at 15:21:22
+
+III_inone start at 15:21:39
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:21:42 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 15:21:51 ---
+close serial SafePort.
+III_inone end at 15:21:51
+
+III_inone start at 15:25:03
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:25:07 ---
+
+local setup...
+app starts now.
+--offset value at -12.3--
+miss data at speed:9200!
+--offset value at -11.7--
+miss data at speed:9200!
+
+App end here.
+--- Data Source closed on 19-12-16 15:51:01 ---
+close serial SafePort.
+III_inone end at 15:51:02
+
+III_inone start at 15:51:15
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:51:18 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 15:51:27 ---
+close serial SafePort.
+III_inone end at 15:51:28
+
+III_inone start at 15:52:01
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 124, in mainloop_thread
+    data = self.ds_listern()
+  File "/home/eaibot/III_inone/III_inone.py", line 184, in ds_listern
+    data = self.serial.readline()
+  File "/usr/local/lib/python2.7/dist-packages/pyserial-3.4-py2.7.egg/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:52:04 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-16 15:53:19 ---
+close serial SafePort.
+III_inone end at 15:53:20
+
+III_inone start at 15:54:33
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 15:54:36 ---
+
+local setup...
+--offset value at -15.8--
+app starts now.
+miss data at speed:9200!
+miss data at speed:8300!
+--offset value at -16.8--
+--offset value at -14.6--
+miss data at speed:9200!
+--offset value at -14.9--
+--offset value at -15.4--
+--offset value at -4.0--
+--offset value at -3.9--
+--offset value at -5.3--
+--offset value at -6.4--
+--offset value at -6.7--
+--offset value at -7.2--
+--offset value at -6.0--
+III_inone end at 16:49:46
+
+III_inone start at 16:50:13
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 124, in mainloop_thread
+    data = self.ds_listern()
+  File "/home/eaibot/III_inone/III_inone.py", line 184, in ds_listern
+    data = self.serial.readline()
+  File "/usr/local/lib/python2.7/dist-packages/pyserial-3.4-py2.7.egg/serial/serialposix.py", line 501, in read
+    'device reports readiness to read but returned no data '
+SerialException: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 16:50:16 ---
+
+local setup...
+app starts now.
+--offset value at -12.4--
+
+App end here.
+--- Data Source closed on 19-12-16 16:52:51 ---
+close serial SafePort.
+III_inone end at 16:52:52
+
+III_inone start at 16:52:58
+
+III_inone start at 17:07:44
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-16 16:53:01 ---
+
+local setup...
+app starts now.
+--offset value at -12.9--
+read tool id 21801
+item: ('60051',)
+#16:53#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+tool enquiry cancel
+read tool id 21801
+item: ('60051',)
+#16:54#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+['07210150', 1.41, 1.59, u'N.m']
+tool measurement are not completed!
+read tool id 21801
+item: ('60051',)
+#16:54#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+tool enquiry cancel
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id 21801
+item: ('60051',)
+#17:03#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+tool enquiry cancel
+read tool id None
+read tool id 21801
+item: ('60051',)
+#17:05#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+tool enquiry cancel
+read tool id 21801
+item: ('60051',)
+#17:05#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+['07210150', 1.41, 1.59, u'N.m']
+tool measurement are not completed!
+read tool id 21801
+item: ('60051',)
+#17:06#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+['07210150', 1.41, 1.59, u'N.m']
+overall test failed
+tool measurement are not completed!
+read tool id 21801
+item: ('60051',)
+#17:06#  tool starts record
+df match ID 21801
+(1.41, 1.59, u'N.m')
+['07210150', 1.41, 1.59, u'N.m']
+overall test failed
+tool measurement are not completed!
+
+App end here.
+--- Data Source closed on 19-12-16 17:07:44 ---
+close serial SafePort.
+III_inone end at 17:07:44

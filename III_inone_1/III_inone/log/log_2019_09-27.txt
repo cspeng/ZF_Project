@@ -1,0 +1,1601 @@
+
+Tool start at 09:23:15
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'None']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:23:20 ---
+
+local setup...
+app starts now.
+timeup on AD   5
+timeup on AD  10
+timeup on AD  15
+timeup on AD  20
+timeup on AD  25
+
+App end here.
+--- Data Source closed on 19-09-27 09:24:28 ---
+clean up serial service!
+Tool end at 09:24:28
+
+Tool start at 09:24:52
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'None']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:24:55 ---
+
+local setup...
+app starts now.
+timeup on AD   5
+
+App end here.
+--- Data Source closed on 19-09-27 09:25:21 ---
+clean up serial service!
+Tool end at 09:25:22
+
+Tool start at 09:25:24
+
+Tool start at 09:25:24
+
+Tool start at 09:25:24
+
+Tool start at 09:25:24
+
+Tool start at 09:25:24
+
+Tool start at 09:25:24
+
+Tool start at 09:25:24
+
+Tool start at 09:25:25
+
+Tool start at 09:25:25
+
+Tool start at 09:25:25
+
+Tool start at 09:25:26
+
+Tool start at 09:25:26
+
+Tool start at 09:25:26
+
+Tool start at 09:25:26
+
+Tool start at 09:25:26
+
+Tool start at 09:25:27
+
+Tool start at 09:25:27
+
+Tool start at 09:25:27
+
+Tool start at 09:25:27
+
+Tool start at 09:25:27
+
+Tool start at 09:25:28
+
+Tool start at 09:25:28
+TOOL is not the first instance
+Tool end at 09:25:41
+TOOL is not the first instance
+Tool end at 09:25:41
+TOOL is not the first instance
+Tool end at 09:25:42
+TOOL is not the first instance
+Tool end at 09:25:42
+TOOL is not the first instance
+Tool end at 09:25:43
+TOOL is not the first instance
+Tool end at 09:25:43
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:25:44
+Tool end at 09:25:44
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:25:44
+Tool end at 09:25:44
+TOOL is not the first instance
+Tool end at 09:25:44
+TOOL is not the first instance
+Tool end at 09:25:45
+TOOL is not the first instance
+Tool end at 09:25:45
+TOOL is not the first instance
+Tool end at 09:25:45
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:25:46
+Tool end at 09:25:46
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:25:46
+TOOL is not the first instance
+Tool end at 09:25:46
+TOOL is not the first instance
+Tool end at 09:25:46
+Tool end at 09:25:46
+TOOL is not the first instance
+Tool end at 09:25:46
+
+Tool start at 09:25:57
+
+Tool start at 09:25:57
+TOOL is not the first instance
+Tool end at 09:26:03
+TOOL is not the first instance
+Tool end at 09:26:04
+
+Tool start at 09:26:07
+
+Tool start at 09:26:08
+
+Tool start at 09:26:08
+
+Tool start at 09:26:08
+TOOL is not the first instance
+Tool end at 09:26:12
+TOOL is not the first instance
+Tool end at 09:26:13
+TOOL is not the first instance
+Tool end at 09:26:14
+TOOL is not the first instance
+Tool end at 09:26:14
+
+Tool start at 09:26:19
+
+Tool start at 09:26:20
+
+Tool start at 09:26:20
+TOOL is not the first instance
+Tool end at 09:26:24
+TOOL is not the first instance
+Tool end at 09:26:26
+TOOL is not the first instance
+Tool end at 09:26:26
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'None']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:25:36 ---
+
+local setup...
+app starts now.
+timeup on AD   5
+timeup on AD  10
+timeup on AD  15
+
+App end here.
+--- Data Source closed on 19-09-27 09:26:31 ---
+clean up serial service!
+Tool end at 09:26:32
+
+Tool start at 09:26:49
+
+Tool start at 09:26:49
+TOOL is not the first instance
+Tool end at 09:26:54
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:26:52 ---
+
+local setup...
+--offset value at -0.0540--
+app starts now.
+--offset value at -0.0594--
+--offset value at -0.0558--
+
+App end here.
+--- Data Source closed on 19-09-27 09:27:54 ---
+clean up serial service!
+Tool end at 09:27:55
+
+Tool start at 09:27:57
+
+Tool start at 09:28:03
+TOOL is not the first instance
+Tool end at 09:28:08
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:28:00 ---
+
+local setup...
+--offset value at -0.0536--
+app starts now.
+--offset value at -0.0588--
+
+App end here.
+--- Data Source closed on 19-09-27 09:28:20 ---
+clean up serial service!
+Tool end at 09:28:21
+
+Tool start at 09:28:22
+
+Tool start at 09:28:22
+
+Tool start at 09:28:22
+
+Tool start at 09:28:22
+
+Tool start at 09:28:23
+
+Tool start at 09:28:23
+
+Tool start at 09:28:23
+
+Tool start at 09:28:24
+
+Tool start at 09:28:25
+
+Tool start at 09:28:26
+
+Tool start at 09:28:27
+
+Tool start at 09:28:27
+
+Tool start at 09:28:28
+TOOL is not the first instance
+Tool end at 09:28:35
+TOOL is not the first instance
+Tool end at 09:28:36
+TOOL is not the first instance
+Tool end at 09:28:36
+TOOL is not the first instance
+Tool end at 09:28:36
+TOOL is not the first instance
+Tool end at 09:28:37
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:28:37
+Tool end at 09:28:37
+TOOL is not the first instance
+Tool end at 09:28:39
+TOOL is not the first instance
+Tool end at 09:28:39
+TOOL is not the first instance
+Tool end at 09:28:40
+TOOL is not the first instance
+Tool end at 09:28:40
+TOOL is not the first instance
+Tool end at 09:28:40
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:28:32 ---
+
+local setup...
+--offset value at -0.0540--
+app starts now.
+--offset value at -0.0585--
+
+App end here.
+--- Data Source closed on 19-09-27 09:29:08 ---
+clean up serial service!
+Tool end at 09:29:09
+
+Tool start at 09:29:11
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:29:15 ---
+
+local setup...
+--offset value at -0.0537--
+app starts now.
+--offset value at -0.0587--
+
+App end here.
+--- Data Source closed on 19-09-27 09:29:27 ---
+clean up serial service!
+Tool end at 09:29:28
+
+Tool start at 09:29:37
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:29:40 ---
+
+local setup...
+--offset value at -0.0528--
+app starts now.
+--offset value at -0.0584--
+
+App end here.
+--- Data Source closed on 19-09-27 09:29:58 ---
+clean up serial service!
+Tool end at 09:29:58
+
+Tool start at 09:30:00
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:30:04 ---
+
+local setup...
+--offset value at -0.0527--
+app starts now.
+--offset value at -0.0584--
+
+App end here.
+--- Data Source closed on 19-09-27 09:30:21 ---
+clean up serial service!
+Tool end at 09:30:21
+
+Tool start at 09:30:29
+
+Tool start at 09:30:29
+
+Tool start at 09:30:30
+
+Tool start at 09:30:30
+TOOL is not the first instance
+Tool end at 09:30:35
+TOOL is not the first instance
+Tool end at 09:30:35
+TOOL is not the first instance
+Tool end at 09:30:37
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:30:33 ---
+
+local setup...
+--offset value at -0.0532--
+app starts now.
+--offset value at -0.0585--
+read tool id None
+read tool id None
+
+App end here.
+--- Data Source closed on 19-09-27 09:30:57 ---
+clean up serial service!
+Tool end at 09:30:58
+
+Tool start at 09:31:00
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:31:03 ---
+
+local setup...
+--offset value at -0.0532--
+app starts now.
+--offset value at -0.0583--
+
+App end here.
+--- Data Source closed on 19-09-27 09:31:28 ---
+clean up serial service!
+Tool end at 09:31:29
+
+Tool start at 09:31:33
+
+Tool start at 09:31:33
+
+Tool start at 09:31:33
+
+Tool start at 09:31:34
+
+Tool start at 09:31:34
+
+Tool start at 09:31:34
+
+Tool start at 09:31:34
+
+Tool start at 09:31:34
+TOOL is not the first instance
+Tool end at 09:31:42
+TOOL is not the first instance
+Tool end at 09:31:42
+TOOL is not the first instance
+Tool end at 09:31:43
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:31:44
+Tool end at 09:31:44
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:31:44
+Tool end at 09:31:44
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:31:38 ---
+
+local setup...
+--offset value at -0.0537--
+app starts now.
+--offset value at -0.0585--
+
+App end here.
+--- Data Source closed on 19-09-27 09:31:56 ---
+clean up serial service!
+Tool end at 09:31:57
+
+Tool start at 09:32:01
+
+Tool start at 09:32:01
+
+Tool start at 09:32:01
+
+Tool start at 09:32:02
+
+Tool start at 09:32:02
+
+Tool start at 09:32:02
+
+Tool start at 09:32:03
+TOOL is not the first instance
+Tool end at 09:32:11
+TOOL is not the first instance
+Tool end at 09:32:11
+TOOL is not the first instance
+Tool end at 09:32:11
+TOOL is not the first instance
+Tool end at 09:32:12
+TOOL is not the first instance
+Tool end at 09:32:12
+TOOL is not the first instance
+Tool end at 09:32:12
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:32:09 ---
+
+local setup...
+--offset value at -0.0544--
+app starts now.
+--offset value at -0.0588--
+
+App end here.
+--- Data Source closed on 19-09-27 09:32:21 ---
+clean up serial service!
+Tool end at 09:32:22
+
+Tool start at 09:32:24
+
+Tool start at 09:32:24
+
+Tool start at 09:32:24
+
+Tool start at 09:32:24
+
+Tool start at 09:32:25
+
+Tool start at 09:32:25
+
+Tool start at 09:32:25
+
+Tool start at 09:32:25
+
+Tool start at 09:32:26
+
+Tool start at 09:32:26
+
+Tool start at 09:32:26
+TOOL is not the first instance
+Tool end at 09:32:36
+TOOL is not the first instance
+Tool end at 09:32:36
+TOOL is not the first instance
+Tool end at 09:32:37
+TOOL is not the first instance
+Tool end at 09:32:37
+TOOL is not the first instance
+Tool end at 09:32:38
+TOOL is not the first instance
+Tool end at 09:32:38
+TOOL is not the first instance
+Tool end at 09:32:38
+TOOL is not the first instance
+Tool end at 09:32:38
+TOOL is not the first instance
+Tool end at 09:32:39
+TOOL is not the first instance
+Tool end at 09:32:39
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:32:33 ---
+
+local setup...
+--offset value at -0.0543--
+app starts now.
+--offset value at -0.0587--
+read tool id None
+
+App end here.
+--- Data Source closed on 19-09-27 09:32:57 ---
+clean up serial service!
+Tool end at 09:32:57
+
+Tool start at 09:32:58
+
+Tool start at 09:32:59
+
+Tool start at 09:32:59
+
+Tool start at 09:32:59
+
+Tool start at 09:32:59
+
+Tool start at 09:33:00
+
+Tool start at 09:33:00
+
+Tool start at 09:33:00
+
+Tool start at 09:33:00
+
+Tool start at 09:33:00
+
+Tool start at 09:33:00
+TOOL is not the first instance
+Tool end at 09:33:13
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:33:13
+Tool end at 09:33:13
+TOOL is not the first instance
+Tool end at 09:33:13
+TOOL is not the first instance
+Tool end at 09:33:13
+TOOL is not the first instance
+Tool end at 09:33:14
+TOOL is not the first instance
+Tool end at 09:33:14
+TOOL is not the first instance
+Tool end at 09:33:14
+TOOL is not the first instance
+Tool end at 09:33:14
+TOOL is not the first instance
+Tool end at 09:33:15
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:33:11 ---
+
+local setup...
+--offset value at -0.0551--
+app starts now.
+--offset value at -0.0593--
+
+App end here.
+--- Data Source closed on 19-09-27 09:33:25 ---
+clean up serial service!
+Tool end at 09:33:26
+
+Tool start at 09:33:29
+
+Tool start at 09:33:29
+
+Tool start at 09:33:29
+
+Tool start at 09:33:30
+
+Tool start at 09:33:30
+
+Tool start at 09:33:30
+
+Tool start at 09:33:30
+
+Tool start at 09:33:31
+
+Tool start at 09:33:31
+TOOL is not the first instance
+Tool end at 09:33:39
+TOOL is not the first instance
+Tool end at 09:33:41
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:33:41
+Tool end at 09:33:41
+TOOL is not the first instance
+Tool end at 09:33:41
+TOOL is not the first instance
+Tool end at 09:33:42
+TOOL is not the first instance
+Tool end at 09:33:42
+TOOL is not the first instance
+Tool end at 09:33:42
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:33:36 ---
+
+local setup...
+--offset value at -0.0548--
+app starts now.
+--offset value at -0.0595--
+
+App end here.
+--- Data Source closed on 19-09-27 09:34:06 ---
+clean up serial service!
+Tool end at 09:34:07
+
+Tool start at 09:34:08
+
+Tool start at 09:34:09
+
+Tool start at 09:34:09
+
+Tool start at 09:34:09
+
+Tool start at 09:34:09
+
+Tool start at 09:34:09
+
+Tool start at 09:34:10
+
+Tool start at 09:34:10
+
+Tool start at 09:34:10
+
+Tool start at 09:34:10
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:34:20
+Tool end at 09:34:20
+TOOL is not the first instance
+Tool end at 09:34:21
+TOOL is not the first instance
+Tool end at 09:34:21
+TOOL is not the first instance
+Tool end at 09:34:21
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:34:21
+Tool end at 09:34:21
+TOOL is not the first instance
+Tool end at 09:34:22
+TOOL is not the first instance
+Tool end at 09:34:22
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:34:17 ---
+
+local setup...
+--offset value at -0.0545--
+app starts now.
+--offset value at -0.0598--
+
+App end here.
+--- Data Source closed on 19-09-27 09:34:31 ---
+clean up serial service!
+Tool end at 09:34:32
+
+Tool start at 09:35:22
+
+Tool start at 09:35:29
+TOOL is not the first instance
+Tool end at 09:35:35
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:35:26 ---
+
+--offset value at -0.0548--
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0600--
+
+App end here.
+clean up serial service!
+Tool end at 09:35:57
+
+Tool start at 09:36:00
+
+Tool start at 09:36:00
+TOOL is not the first instance
+Tool end at 09:36:06
+
+Tool start at 09:36:10
+TOOL is not the first instance
+Tool end at 09:36:16
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:36:04 ---
+
+--offset value at -0.0563--
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0607--
+
+App end here.
+clean up serial service!
+Tool end at 09:36:19
+
+Tool start at 09:36:45
+
+Tool start at 09:36:46
+TOOL is not the first instance
+Tool end at 09:36:52
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:36:48 ---
+
+--offset value at -0.0552--
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0607--
+
+App end here.
+clean up serial service!
+Tool end at 09:37:12
+
+Tool start at 09:37:14
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:37:17 ---
+
+--offset value at -0.0565--
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0607--
+
+App end here.
+clean up serial service!
+Tool end at 09:37:38
+
+Tool start at 09:38:04
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:38:08 ---
+
+--offset value at -0.0553--
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0607--
+
+App end here.
+clean up serial service!
+Tool end at 09:38:43
+
+Tool start at 09:38:44
+
+Tool start at 09:38:45
+TOOL is not the first instance
+Tool end at 09:38:50
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:38:48 ---
+
+local setup...
+--offset value at -0.0561--
+app starts now.
+--offset value at -0.0611--
+
+App end here.
+--- Data Source closed on 19-09-27 09:39:02 ---
+clean up serial service!
+Tool end at 09:39:03
+
+Tool start at 09:39:19
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:39:23 ---
+
+local setup...
+--offset value at -0.0561--
+app starts now.
+--offset value at -0.0611--
+
+App end here.
+--- Data Source closed on 19-09-27 09:39:32 ---
+clean up serial service!
+Tool end at 09:39:33
+
+Tool start at 09:39:46
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:39:50 ---
+
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0564--
+
+App end here.
+clean up serial service!
+Tool end at 09:40:11
+
+Tool start at 09:40:37
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:40:41 ---
+
+local setup...
+--offset value at -0.0562--
+app starts now.
+--offset value at -0.0614--
+
+App end here.
+--- Data Source closed on 19-09-27 09:40:49 ---
+clean up serial service!
+Tool end at 09:40:50
+
+Tool start at 09:41:06
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:41:09 ---
+
+local setup...
+--offset value at -0.0564--
+app starts now.
+--offset value at -0.0612--
+
+App end here.
+--- Data Source closed on 19-09-27 09:41:19 ---
+clean up serial service!
+Tool end at 09:41:19
+
+Tool start at 09:41:52
+
+Tool start at 09:41:53
+TOOL is not the first instance
+Tool end at 09:41:58
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:41:56 ---
+
+local setup...
+--offset value at -0.0573--
+app starts now.
+--offset value at -0.0618--
+
+App end here.
+--- Data Source closed on 19-09-27 09:42:04 ---
+clean up serial service!
+Tool end at 09:42:04
+
+Tool start at 09:42:30
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:42:34 ---
+
+local setup...
+--offset value at -0.0577--
+app starts now.
+--offset value at -0.0616--
+
+App end here.
+--- Data Source closed on 19-09-27 09:42:45 ---
+clean up serial service!
+Tool end at 09:42:45
+
+Tool start at 09:43:11
+
+Tool start at 09:43:15
+TOOL is not the first instance
+Tool end at 09:43:20
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:43:15 ---
+
+not connect
+
+local setup...
+column using DEBUG heading
+app starts now.
+--offset value at -0.0549--
+
+App end here.
+clean up serial service!
+Tool end at 09:44:07
+
+Tool start at 09:44:08
+
+Tool start at 09:44:15
+TOOL is not the first instance
+Tool end at 09:44:21
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:44:11 ---
+
+local setup...
+--offset value at -0.0574--
+app starts now.
+--offset value at -0.0624--
+
+App end here.
+--- Data Source closed on 19-09-27 09:44:55 ---
+clean up serial service!
+Tool end at 09:44:56
+
+Tool start at 09:44:56
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:45:00 ---
+
+local setup...
+--offset value at -0.0566--
+app starts now.
+--offset value at -0.0619--
+
+App end here.
+--- Data Source closed on 19-09-27 09:45:12 ---
+clean up serial service!
+Tool end at 09:45:13
+
+Tool start at 09:45:21
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:45:24 ---
+
+--offset value at -0.0570--
+local setup...
+app starts now.
+--offset value at -0.0620--
+
+App end here.
+--- Data Source closed on 19-09-27 09:46:18 ---
+clean up serial service!
+Tool end at 09:46:19
+
+Tool start at 09:49:18
+
+Tool start at 09:49:18
+
+Tool start at 09:49:18
+
+Tool start at 09:49:19
+
+Tool start at 09:49:19
+
+Tool start at 09:49:19
+
+Tool start at 09:49:19
+
+Tool start at 09:49:20
+
+Tool start at 09:49:20
+
+Tool start at 09:49:20
+
+Tool start at 09:49:20
+
+Tool start at 09:49:20
+
+Tool start at 09:49:21
+
+Tool start at 09:49:21
+
+Tool start at 09:49:21
+
+Tool start at 09:49:21
+TOOL is not the first instance
+Tool end at 09:49:33
+TOOL is not the first instance
+Tool end at 09:49:34
+TOOL is not the first instance
+Tool end at 09:49:36
+TOOL is not the first instance
+Tool end at 09:49:36
+TOOL is not the first instance
+Tool end at 09:49:36
+TOOL is not the first instance
+Tool end at 09:49:36
+TOOL is not the first instance
+Tool end at 09:49:37
+TOOL is not the first instance
+Tool end at 09:49:37
+TOOL is not the first instance
+Tool end at 09:49:37
+TOOL is not the first instance
+Tool end at 09:49:38
+TOOL is not the first instance
+Tool end at 09:49:38
+TOOL is not the first instance
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:49:38
+Tool end at 09:49:38
+Tool end at 09:49:38
+TOOL is not the first instance
+Tool end at 09:49:38
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:49:30 ---
+
+local setup...
+--offset value at -0.0588--
+app starts now.
+--offset value at -0.0630--
+
+App end here.
+--- Data Source closed on 19-09-27 09:50:03 ---
+clean up serial service!
+Tool end at 09:50:04
+
+Tool start at 09:51:35
+
+Tool start at 09:51:36
+
+Tool start at 09:51:36
+
+Tool start at 09:51:36
+
+Tool start at 09:51:37
+
+Tool start at 09:51:37
+TOOL is not the first instance
+Tool end at 09:51:43
+TOOL is not the first instance
+Tool end at 09:51:43
+TOOL is not the first instance
+Tool end at 09:51:43
+TOOL is not the first instance
+Tool end at 09:51:44
+TOOL is not the first instance
+Tool end at 09:51:44
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:51:41 ---
+
+local setup...
+--offset value at -0.0585--
+app starts now.
+--offset value at -0.0625--
+
+App end here.
+--- Data Source closed on 19-09-27 09:51:59 ---
+clean up serial service!
+Tool end at 09:51:59
+
+Tool start at 09:52:01
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:52:04 ---
+
+local setup...
+--offset value at -0.0581--
+app starts now.
+--offset value at -0.0633--
+
+App end here.
+--- Data Source closed on 19-09-27 09:52:15 ---
+clean up serial service!
+Tool end at 09:52:15
+
+Tool start at 09:52:17
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:52:20 ---
+
+local setup...
+--offset value at -0.0587--
+app starts now.
+--offset value at -0.0636--
+
+App end here.
+--- Data Source closed on 19-09-27 09:52:33 ---
+clean up serial service!
+Tool end at 09:52:34
+
+Tool start at 09:52:35
+
+Tool start at 09:52:35
+
+Tool start at 09:52:35
+
+Tool start at 09:52:35
+
+Tool start at 09:52:35
+
+Tool start at 09:52:35
+
+Tool start at 09:52:36
+
+Tool start at 09:52:36
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:52:45
+Tool end at 09:52:45
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:52:46
+Tool end at 09:52:46
+TOOL is not the first instance
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:52:46
+Tool end at 09:52:46
+Tool end at 09:52:46
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:52:43 ---
+
+local setup...
+--offset value at -0.0587--
+app starts now.
+--offset value at -0.0635--
+read tool id None
+
+App end here.
+--- Data Source closed on 19-09-27 09:53:27 ---
+clean up serial service!
+Tool end at 09:53:28
+
+Tool start at 09:53:29
+
+Tool start at 09:53:29
+
+Tool start at 09:53:30
+
+Tool start at 09:53:30
+
+Tool start at 09:53:30
+TOOL is not the first instance
+Tool end at 09:53:37
+TOOL is not the first instance
+TOOL is not the first instance
+Tool end at 09:53:37
+Tool end at 09:53:37
+TOOL is not the first instance
+Tool end at 09:53:37
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:53:35 ---
+
+local setup...
+--offset value at -0.0594--
+app starts now.
+--offset value at -0.0639--
+
+App end here.
+--- Data Source closed on 19-09-27 09:53:48 ---
+clean up serial service!
+Tool end at 09:53:48
+
+Tool start at 09:53:51
+
+Tool start at 09:53:51
+
+Tool start at 09:53:51
+
+Tool start at 09:53:52
+
+Tool start at 09:53:52
+TOOL is not the first instance
+Tool end at 09:53:58
+TOOL is not the first instance
+Tool end at 09:53:59
+TOOL is not the first instance
+Tool end at 09:53:59
+TOOL is not the first instance
+Tool end at 09:53:59
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:53:56 ---
+
+local setup...
+--offset value at -0.0585--
+app starts now.
+--offset value at -0.0638--
+
+App end here.
+--- Data Source closed on 19-09-27 09:54:15 ---
+clean up serial service!
+Tool end at 09:54:16
+
+Tool start at 09:55:04
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:55:08 ---
+
+local setup...
+--offset value at -0.0588--
+app starts now.
+--offset value at -0.0640--
+
+App end here.
+--- Data Source closed on 19-09-27 09:55:33 ---
+clean up serial service!
+Tool end at 09:55:33
+
+Tool start at 09:55:36
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:55:39 ---
+
+local setup...
+--offset value at -0.0592--
+app starts now.
+--offset value at -0.0643--
+
+App end here.
+--- Data Source closed on 19-09-27 09:55:50 ---
+clean up serial service!
+Tool end at 09:55:50
+
+Tool start at 09:55:52
+
+Tool start at 09:55:55
+TOOL is not the first instance
+Tool end at 09:56:01
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 09:55:56 ---
+
+local setup...
+--offset value at -0.0590--
+app starts now.
+--offset value at -0.0640--
+
+App end here.
+--- Data Source closed on 19-09-27 09:57:25 ---
+clean up serial service!
+Tool end at 09:57:25
+
+Tool start at 10:02:39
+
+Tool start at 10:02:42
+
+Tool start at 10:02:42
+TOOL is not the first instance
+Tool end at 10:02:47
+TOOL is not the first instance
+Tool end at 10:02:48
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 10:02:43 ---
+
+local setup...
+--offset value at -0.0606--
+app starts now.
+--offset value at -0.0660--
+App quit...
+
+App end here.
+--- Data Source closed on 19-09-27 10:03:07 ---
+clean up serial service!
+Tool end at 10:03:08
+
+Tool start at 10:03:10
+
+Tool start at 10:03:14
+TOOL is not the first instance
+Tool end at 10:03:20
+
+
+
+Tools mb Boxes...
+['None', 'None', 'None', 'Park']
+connected
+
+
+Tools odbc data source...
+--- connected on 19-09-27 10:03:13 ---
+
+local setup...
+--offset value at -0.0617--
+app starts now.
+--offset value at -0.0658--
+
+App end here.
+--- Data Source closed on 19-09-27 10:06:42 ---
+clean up serial service!
+Tool end at 10:06:43
+
+Tool start at 10:06:44
+
+Tool start at 10:06:45
+
+Tool start at 10:06:47
+
+Tool start at 10:06:50
+TOOL is not the first instance
+Tool end at 10:06:51
+TOOL is not the first instance
+Tool end at 10:06:52
+TOOL is not the first instance
+Tool end at 10:06:56

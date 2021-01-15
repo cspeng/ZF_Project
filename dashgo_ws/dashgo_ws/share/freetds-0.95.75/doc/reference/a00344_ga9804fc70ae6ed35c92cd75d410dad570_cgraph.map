@@ -1,0 +1,6 @@
+<map id="dbtablecolinfo" name="dbtablecolinfo">
+<area shape="rect" id="node2" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="447,5,550,32"/>
+<area shape="rect" id="node3" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="408,107,589,133"/>
+<area shape="rect" id="node4" href="$a00359.html#ga50d62edeb2a432e2dc668263f3f958ff" title="Return declaration for column (like &quot;varchar(20)&quot;) " alt="" coords="161,56,360,83"/>
+<area shape="rect" id="node5" href="$a00359.html#ga440f0f469afad1eac4c008979873ccdd" title="Get column size for wire. " alt="" coords="425,56,573,83"/>
+</map>

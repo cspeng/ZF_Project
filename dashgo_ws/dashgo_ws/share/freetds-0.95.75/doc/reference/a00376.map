@@ -1,0 +1,22 @@
+<map id="src/dblib/dblib.c" name="src/dblib/dblib.c">
+<area shape="rect" id="node4" href="$a00198_source.html" title="freetds/time.h" alt="" coords="202,155,309,181"/>
+<area shape="rect" id="node7" href="$a00196.html" title="Main include file for libtds. " alt="" coords="807,80,907,107"/>
+<area shape="rect" id="node11" href="$a00197_source.html" title="freetds/thread.h" alt="" coords="1303,155,1426,181"/>
+<area shape="rect" id="node12" href="$a00205_source.html" title="replacements.h" alt="" coords="1109,155,1228,181"/>
+<area shape="rect" id="node19" href="$a00184_source.html" title="freetds/convert.h" alt="" coords="591,229,719,256"/>
+<area shape="rect" id="node20" href="$a00194_source.html" title="freetds/string.h" alt="" coords="1603,229,1719,256"/>
+<area shape="rect" id="node21" href="$a00185_source.html" title="freetds/data.h" alt="" coords="1915,229,2025,256"/>
+<area shape="rect" id="node22" href="$a00212_source.html" title="sybfront.h" alt="" coords="1433,80,1515,107"/>
+<area shape="rect" id="node23" href="$a00210.html" title="Primary include file for db&#45;lib applications. " alt="" coords="1450,155,1519,181"/>
+<area shape="rect" id="node24" href="$a00211_source.html" title="syberror.h" alt="" coords="1741,80,1826,107"/>
+<area shape="rect" id="node25" href="$a00179_source.html" title="dblib.h" alt="" coords="2049,229,2110,256"/>
+<area shape="rect" id="node26" href="$a00237_source.html" title="buffering.h" alt="" coords="1851,80,1937,107"/>
+<area shape="rect" id="node8" href="$a00200_source.html" title="freetds/version.h" alt="" coords="444,155,571,181"/>
+<area shape="rect" id="node10" href="$a00195_source.html" title="freetds/sysdep_private.h" alt="" coords="943,229,1120,256"/>
+<area shape="rect" id="node15" href="$a00191_source.html" title="freetds/pushvis.h" alt="" coords="1351,304,1479,331"/>
+<area shape="rect" id="node16" href="$a00189_source.html" title="freetds/popvis.h" alt="" coords="1503,304,1626,331"/>
+<area shape="rect" id="node18" href="$a00190_source.html" title="freetds/proto.h" alt="" coords="970,155,1085,181"/>
+<area shape="rect" id="node13" href="$a00213_source.html" title="tds_sysdep_public.h" alt="" coords="1743,229,1891,256"/>
+<area shape="rect" id="node14" href="$a00206_source.html" title="replacements/readpassphrase.h" alt="" coords="1303,229,1528,256"/>
+<area shape="rect" id="node17" href="$a00181.html" title="Provide poll call where missing. " alt="" coords="1195,229,1278,256"/>
+</map>

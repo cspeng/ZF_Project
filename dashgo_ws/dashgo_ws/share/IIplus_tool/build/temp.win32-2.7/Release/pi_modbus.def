@@ -1,0 +1,3 @@
+LIBRARY pi_modbus.pyd
+EXPORTS
+initpi_modbus

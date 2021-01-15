@@ -1,0 +1,75 @@
+I install unixodbc
+
+sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc
+
+#python odbc, see http://code.google.com/p/pypyodbc/
+pip install pyodbc
+pip install pypyodbc
+
+
+II install freetds
+
+./autogen.sh --prefix=/usr/local/freetds0.95
+ --enable-msdblib --with-tdsver=7.1 
+
+make
+sudo make install
+
+sudo geany /home/pi/.bashrc
+append '''
+export PATH=$PATH:/usr/local/freetds0.95/bin
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/freetds0.95/lib    
+'''
+source  .bashrc 
+tsql -H 192.168.31.111 -p1433 -U sa -P pi2
+
+
+III config freetds
+
+tsql  -C
+
+sudo geany /usr/local/freetds0.95/etc/freetds.conf
+append '''
+# A typical Microsoft server
+[sqlexpress]
+        host = 192.168.31.111
+        port = 1433
+        tds version = 8.0
+
+[sqlSRV]
+        host = 192.168.33.94
+        port = 1433
+        tds version = 7.1
+'''
+tsql -S sqlexpress -U sa
+
+odbcinst -j 
+sudo geany /etc/odbcinst.ini
+'''
+Driver = /usr/lib/arm-linux-gnueabihf/odbc/libtdsodbc.so
+Setup = /usr/lib/arm-linux-gnueabihf/odbc/libtdsS.so
+'''
+sudo geany /etc/odbc.ini
+append '''
+[SQLEXPRESS]
+Server = 192.168.31.111
+Port = 1433
+TDS_Version = 8.0
+Driver = FreeTDS
+
+[sqlDS]
+Driver = FreeTDS
+Servername = sqlSRV
+Database = Engg
+'''
+isql -v SQLEXPRESS sa pi2
+
+
+IV python usage
+'''
+connStr= "DSN=SQLEXPRESS; UID=sa; PWD=pi2; DATABASE=quitDB"
+connDB= pypyodbc.connect(connStr)
+cur= connDB.cursor()
+    cur.execute(SQL)
+    fetch= cur.fetchall()
+'''

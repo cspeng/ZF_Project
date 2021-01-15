@@ -1,0 +1,12 @@
+<map id="dbpivot" name="dbpivot">
+<area shape="rect" id="node2" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="651,220,753,247"/>
+<area shape="rect" id="node3" href="$a00344.html#ga636e6f1b64743f3cf22158a56eef371f" title="Get the datatype of a regular result set column. " alt="" coords="124,125,207,152"/>
+<area shape="rect" id="node5" href="$a00344.html#ga89fc5589b4bf41932324d2cfc6ad6433" title="Get size of a regular result column. " alt="" coords="312,24,387,51"/>
+<area shape="rect" id="node6" href="$a00344.html#ga873bc0f4663165e711655ade1dfae795" title="Tie a host variable to a resultset column. " alt="" coords="134,176,197,203"/>
+<area shape="rect" id="node10" href="$a00344.html#ga85dcc40c3615f94be96b09b2ec043533" title="Tie a null&#45;indicator to a regular result column. " alt="" coords="503,372,587,399"/>
+<area shape="rect" id="node11" href="$a00344.html#gad06f5deddac18604dfa858b2580e232f" title="Return name of a regular result column. " alt="" coords="120,397,211,424"/>
+<area shape="rect" id="node4" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="259,125,440,152"/>
+<area shape="rect" id="node7" href="$a00350.html#ga302a4ce6559b81808e3be51615cd1b67" title="Call client&#45;installed error handler. " alt="" coords="507,220,583,247"/>
+<area shape="rect" id="node8" href="$a00344.html#gaaf8349999c16b3c36caf5947747a2915" title="Test whether or not a datatype can be converted to another datatype. " alt="" coords="298,277,401,304"/>
+<area shape="rect" id="node9" href="$a00356.html#ga80487b313213f60d8be71a50a002bb2c" title="Test if a conversion is possible. " alt="" coords="488,271,603,297"/>
+</map>

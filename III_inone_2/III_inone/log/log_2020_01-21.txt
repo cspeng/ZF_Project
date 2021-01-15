@@ -1,0 +1,94 @@
+
+
+III_inone start at 08:39:23
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-21 08:39:27 ---
+
+III_inone end at 10:04:44
+
+
+III_inone start at 10:51:29
+bgerror failed to handle background error.
+    Original error: invalid command name "1897352808cancel"
+    Error in bgerror: can't invoke "tk" command: application has been destroyed
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-21 10:51:33 ---
+
+III_inone end at 11:13:21
+
+
+III_inone start at 11:13:24
+invalid command name "1897262456cancel"
+    while executing
+"1897262456cancel"
+    ("after" script)
+invalid command name "1959315536cancel"
+    while executing
+"1959315536cancel"
+    ("after" script)
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-21 11:13:27 ---
+
+III_inone end at 11:16:30
+
+
+III_inone start at 11:16:33
+invalid command name "1896561120cancel"
+    while executing
+"1896561120cancel"
+    ("after" script)
+invalid command name "1896558840cancel"
+    while executing
+"1896558840cancel"
+    ("after" script)
+invalid command name "1896561400cancel"
+    while executing
+"1896561400cancel"
+    ("after" script)
+invalid command name "1896561920cancel"
+    while executing
+"1896561920cancel"
+    ("after" script)
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-21 11:16:35 ---
+
+III_inone end at 11:18:22
+
+
+III_inone start at 11:18:25
+invalid command name "1897003448cancel"
+    while executing
+"1897003448cancel"
+    ("after" script)
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-21 11:18:28 ---
+
+III_inone end at 11:50:06
+
+
+III_inone start at 15:21:23

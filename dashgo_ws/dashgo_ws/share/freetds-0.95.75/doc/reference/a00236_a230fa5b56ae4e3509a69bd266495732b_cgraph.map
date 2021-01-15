@@ -1,0 +1,6 @@
+<map id="_bcp_convert_out" name="_bcp_convert_out">
+<area shape="rect" id="node2" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="188,5,369,32"/>
+<area shape="rect" id="node3" href="$a00356.html#ga883855e6e3793de6684b21db39c756c4" title="Convert from db date format to a structured date format. " alt="" coords="223,56,334,83"/>
+<area shape="rect" id="node4" href="$a00356.html#ga8c9652e8b1f3e56a3289fd71b12cee1d" title="format a date string according to an &quot;extended&quot; strftime(3) formatting definition. " alt="" coords="231,107,326,133"/>
+<area shape="rect" id="node5" href="$a00356.html#gaa865e08f7ad70ef92b111c2ea3657457" title="tds_convert convert a type to another. " alt="" coords="231,157,327,184"/>
+</map>

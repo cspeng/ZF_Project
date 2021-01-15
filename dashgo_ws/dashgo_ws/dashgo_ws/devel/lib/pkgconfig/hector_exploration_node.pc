@@ -1,0 +1,8 @@
+prefix=/home/eaibot/dashgo_ws/devel
+
+Name: hector_exploration_node
+Description: Description of hector_exploration_node
+Version: 2.1.0
+Cflags: 
+Libs: -L/home/eaibot/dashgo_ws/devel/lib 
+Requires: 

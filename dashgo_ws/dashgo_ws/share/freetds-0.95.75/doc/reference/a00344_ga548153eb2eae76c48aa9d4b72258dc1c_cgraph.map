@@ -1,0 +1,51 @@
+<map id="dbwritetext" name="dbwritetext">
+<area shape="rect" id="node2" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="2105,718,2208,744"/>
+<area shape="rect" id="node3" href="$a00344.html#ga32eb72f6fb3edb130e59fb3dd0766e7e" title="Convert one datatype to another. " alt="" coords="171,220,255,247"/>
+<area shape="rect" id="node6" href="$a00350.html#ga302a4ce6559b81808e3be51615cd1b67" title="Call client&#45;installed error handler. " alt="" coords="574,144,650,171"/>
+<area shape="rect" id="node8" href="$a00362.html#gabfc9de1d1fe718818caf63a4be4035a6" title="process all streams. " alt="" coords="537,1088,687,1115"/>
+<area shape="rect" id="node42" href="$a00297.html#a7711612cc544a7da2c7aa212b870acb2" title="Start writing writetext request. " alt="" coords="144,2207,283,2234"/>
+<area shape="rect" id="node45" href="$a00297.html#ab68dead99a2ebec55895a10cd3db5202" title="Send some data in the writetext request started by tds_writetext_start. " alt="" coords="916,2207,1079,2234"/>
+<area shape="rect" id="node46" href="$a00297.html#ac1e460551f1188620ea478238864ac4b" title="Finish sending writetext data. " alt="" coords="343,2308,477,2335"/>
+<area shape="rect" id="node48" href="$a00344.html#gae1f50a6a2c31fda57cb481922b06841e" title="Wait for results of a query from the server. " alt="" coords="375,2359,445,2386"/>
+<area shape="rect" id="node49" href="$a00344.html#ga4e26d949be2c3bf71b1a33c75b11d931" title="Set up query results. " alt="" coords="174,398,253,424"/>
+<area shape="rect" id="node4" href="$a00196.html#aa70b02ff34ac03040ca41f13d5fd35bd" title="Return the number of bytes needed by specified type. " alt="" coords="331,296,489,323"/>
+<area shape="rect" id="node5" href="$a00238.html#aea6a865806d454280126de940478c214" title="dbgetnull" alt="" coords="371,94,449,120"/>
+<area shape="rect" id="node7" href="$a00356.html#gaa865e08f7ad70ef92b111c2ea3657457" title="tds_convert convert a type to another. " alt="" coords="362,195,458,222"/>
+<area shape="rect" id="node9" href="$a00196.html#a16db200d2281f76fe46fc1cbe37ca9df" title="Set state of TDS connection, with logging and checking. " alt="" coords="1405,2216,1512,2243"/>
+<area shape="rect" id="node11" href="$a00360.html#ga0cb72d3f6943795c39db1fa692be0a58" title="Return a single byte from the input buffer. " alt="" coords="1630,1199,1733,1226"/>
+<area shape="rect" id="node13" href="$a00362.html#ga7f24a7af985cd320788122e98072b7af" title="Returns string representation for a given token type. " alt="" coords="1158,892,1285,919"/>
+<area shape="rect" id="node14" href="$a00362.html#gaca56fc22d65a24a96d1bef310ade73aa" title="tds7_process_result() is the TDS 7.0 result set processing routine. " alt="" coords="1147,608,1296,635"/>
+<area shape="rect" id="node17" href="$a00360.html#gad70d59fb317d098b0c9fd29dd77131a8" title="Unget will always work as long as you don&#39;t call it twice in a row. " alt="" coords="1399,1558,1518,1584"/>
+<area shape="rect" id="node18" href="$a00362.html#gaeec59bca9bd0c5388e245f0d19d9c81a" title="Process list of table from network. " alt="" coords="1141,1364,1302,1391"/>
+<area shape="rect" id="node20" href="$a00362.html#ga9a101b8bbd978e22ec7306491e5554c7" title="tds_process_result() is the TDS 5.0 result set processing routine. " alt="" coords="1151,1044,1292,1071"/>
+<area shape="rect" id="node21" href="$a00362.html#ga547b2f48659f77a69aa802d861ac827d" title="tds5_process_result() is the new TDS 5.0 result set processing routine. " alt="" coords="1147,943,1296,970"/>
+<area shape="rect" id="node22" href="$a00362.html#ga905d2fa5e1b602817bd16bb0fcf9eadb" title="tds_process_col_name() is one half of the result set under TDS 4.2 it contains all the column names..." alt="" coords="1137,1196,1305,1223"/>
+<area shape="rect" id="node23" href="$a00362.html#ga4e3dd9d3614f5f0433b78b761dd68741" title="tds_process_col_fmt() is the other half of result set processing under TDS 4.2. " alt="" coords="1145,994,1297,1020"/>
+<area shape="rect" id="node24" href="$a00362.html#gacb3354443bcefe7a500a500a4904cc05" title="process output parameters of a stored procedure. " alt="" coords="1364,2014,1553,2040"/>
+<area shape="rect" id="node25" href="$a00362.html#ga9fdef8228d29cab7fa9098f07fa73fba" title="Process parameters from networks. " alt="" coords="1127,1720,1316,1761"/>
+<area shape="rect" id="node26" href="$a00362.html#gae5b3e01f3d665f9e377de091f46f1ab9" title="tds_process_compute_names() processes compute result sets. " alt="" coords="1141,2040,1301,2081"/>
+<area shape="rect" id="node27" href="$a00362.html#gae3368ea80d0d8b13791ceb13ee5f19c9" title="tds_process_compute_result() processes compute result sets. " alt="" coords="1379,500,1539,541"/>
+<area shape="rect" id="node28" href="$a00362.html#ga6728e344caa20aea1def85f58dea138b" title="tds7_process_compute_result() processes compute result sets for TDS 7/8. " alt="" coords="1137,660,1305,701"/>
+<area shape="rect" id="node29" href="$a00362.html#gaad814dd6e35aee8332035d06dc8b5d65" title="tds_process_row() processes rows and places them in the row buffer. " alt="" coords="1156,427,1287,454"/>
+<area shape="rect" id="node30" href="$a00362.html#gaf7264c9eb3aa7a73358a4c65f02d3d3c" title="tds_process_nbcrow() processes rows and places them in the row buffer. " alt="" coords="1145,478,1297,504"/>
+<area shape="rect" id="node31" href="$a00362.html#ga6fcb37d5addebdc1af9f34ebc59fd7a8" title="tds_process_compute() processes compute rows and places them in the row buffer. " alt="" coords="1601,296,1761,323"/>
+<area shape="rect" id="node32" href="$a00360.html#ga221e98a9c8be96ec6c8547891e1b53af" title="Reads a byte from the TDS stream without removing it. " alt="" coords="1181,1668,1261,1695"/>
+<area shape="rect" id="node33" href="$a00359.html#gae8b7db85af16701fc0604eb117cbd4e4" title="Set current dynamic. " alt="" coords="738,528,865,555"/>
+<area shape="rect" id="node34" href="$a00362.html#ga5cfc0340d8d717e67f60037e029b2142" title="tds_process_dynamic() finds the element of the dyns array for the id " alt="" coords="1142,1836,1301,1863"/>
+<area shape="rect" id="node35" href="$a00362.html#ga81cdf0ed9e8d29cf1ddf66e18efc407d" title="tds_process_msg() is called for MSG, ERR, or EED tokens and is responsible for calling the CLI&#39;s mess..." alt="" coords="735,1415,868,1442"/>
+<area shape="rect" id="node36" href="$a00362.html#ga39453d084f3f780ac4602d4abf2839f7" title="tds_process_default_tokens() is a catch all function that is called to process tokens not known to ot..." alt="" coords="923,1121,1072,1162"/>
+<area shape="rect" id="node37" href="$a00362.html#ga7a081cf9bb8f04ead12f0299fb7c4cd9" title="tds_process_end() processes any of the DONE, DONEPROC, or DONEINPROC tokens. " alt="" coords="1156,1938,1287,1964"/>
+<area shape="rect" id="node38" href="$a00362.html#ga416cf119c1d4a0fca27dc5b50c261358" title="Process results from dynamic. " alt="" coords="1135,842,1307,868"/>
+<area shape="rect" id="node39" href="$a00362.html#gae688b515631141acfbc41bbb91c8b921" title="Process new TDS 5.0 token for describing output parameters. " alt="" coords="1127,791,1315,818"/>
+<area shape="rect" id="node40" href="$a00362.html#ga7b18c0911a9dc69939577b39eb64725d" title="tds_process_params_result_token() processes params on TDS5. " alt="" coords="1144,725,1299,766"/>
+<area shape="rect" id="node41" href="$a00362.html#ga315d875d90c64d12d61fc9e33b4dee96" title="Reads cursor command results. " alt="" coords="1148,1248,1295,1289"/>
+<area shape="rect" id="node10" href="$a00196.html#abf18b98efef6ce2dc0b97d658a3a1918" title="Call the client library&#39;s error handler (for library&#45;generated errors only) " alt="" coords="1985,1275,2057,1302"/>
+<area shape="rect" id="node12" href="$a00360.html#ga410619783bdf2bb60b0f27a5578e0e07" title="Read in one &#39;packet&#39; from the server. " alt="" coords="1809,1199,1937,1226"/>
+<area shape="rect" id="node15" href="$a00362.html#ga07cee55fd522cca16fb59b7a8f0b1376" title="Reads data information from wire. " alt="" coords="1387,667,1531,694"/>
+<area shape="rect" id="node16" href="$a00358.html#ga1224fb9277112dc2ce12531d2b73b145" title="Allocate space for row store return NULL on out of memory. " alt="" coords="1404,920,1513,947"/>
+<area shape="rect" id="node19" href="$a00360.html#gad38aa5b9547817854ccba1fcc7855861" title="Get an int16 from the server. " alt="" coords="1393,1275,1524,1302"/>
+<area shape="rect" id="node43" href="$a00359.html#gad695defcbf663b0023851a198206a772" title="Format and submit a query. " alt="" coords="343,2207,477,2234"/>
+<area shape="rect" id="node44" href="$a00362.html#gaeeb1562044786ea17bea361ed83e6946" title="Process results for simple query as &quot;SET TEXTSIZE&quot; or &quot;USE dbname&quot; If the statement returns results..." alt="" coords="337,1614,483,1656"/>
+<area shape="rect" id="node47" href="$a00360.html#ga5feb53554e8917a81bbbc332163a61fb" title="Flush packet to server. " alt="" coords="548,2359,676,2386"/>
+<area shape="rect" id="node50" href="$a00344.html#gaf1879b85e8238c015b9648d077665285" title="_dbresults" alt="" coords="367,347,453,374"/>
+</map>

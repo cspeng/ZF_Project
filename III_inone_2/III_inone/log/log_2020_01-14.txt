@@ -1,0 +1,315 @@
+
+
+III_inone start at 11:18:46
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 133, in mainloop_thread
+    ds._VAL = [int(s) for s in data[21:].split(",")][1]
+ValueError: invalid literal for int() with base 10: '1  0'
+
+
+
+III_inone start at 11:40:12
+
+
+
+ESP32 is ready.
+None
+item-2700  peak:  77  0, 14
+item-3600  peak:  77  0, 14
+item-4500  peak:  77  0, 15
+item-5400  peak:  77  0, 15
+item-6300  peak:  77  0, 15
+item-7200  peak:  77  0, 15
+item-8000  peak:  77  0, 15
+item-8900  peak:  77  0, 15
+item-9800  peak:  77  0, 15
+
+Tools odbc data source...
+--- connected on 20-01-14 11:40:16 ---
+
+item- 700  peak:  77  0, 15
+item-1600  peak:  77  0, 15
+III_inone end at 11:42:43
+
+
+III_inone start at 11:46:12
+
+
+
+ESP32 is ready.
+None
+item-9600  peak: 129  0, 18
+item- 500  peak: 129  0, 18
+item-1400  peak: 129  0, 18
+item-2300  peak: 129  0, 18
+item-3100  peak: 129  0, 18
+item-4000  peak: 129  0, 18
+item-4900  peak: 129  0, 18
+item-5800  peak: 129  0, 18
+item-6700  peak: 129  0, 18
+
+Tools odbc data source...
+--- connected on 20-01-14 11:46:15 ---
+
+item-7600  peak: 129  0, 18
+item-8500  peak: 129  0, 18
+item-9300  peak: 129  0, 18
+item- 200  peak: 129  0, 18
+item-1100  peak: 129  0, 18
+item-2000  peak: 129  0, 18
+item-2900  peak: 129  0, 18
+item-3800  peak: 129  0, 18
+III_inone end at 12:03:56
+
+
+III_inone start at 12:19:58
+
+
+
+ESP32 is ready.
+None
+item-9200  peak:  92  0, 16
+item- 100  peak:  92  0, 16
+item-1000  peak:  92  0, 16
+item-1900  peak:  92  0, 16
+item-2800  peak:  92  0, 16
+item-3600  peak:  92  0, 16
+item-4500  peak:  92  0, 16
+item-5400  peak:  92  0, 16
+item-6300  peak:  92  0, 16
+
+Tools odbc data source...
+--- connected on 20-01-14 12:20:02 ---
+
+item-7200  peak:  92  0, 16
+III_inone end at 12:21:07
+
+
+III_inone start at 13:05:16
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 13:05:20 ---
+
+III_inone end at 13:49:58
+
+
+III_inone start at 13:43:02
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 801, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 754, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/home/eaibot/III_inone/III_inone.py", line 133, in mainloop_thread
+    ds._VAL = [int(s) for s in data[21:].split(",")][1]
+ValueError: invalid literal for int() with base 10: '4  0'
+
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:14:41 ---
+
+III_inone end at 15:15:19
+
+
+III_inone start at 15:26:20
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:26:24 ---
+
+III_inone end at 15:26:45
+
+
+III_inone start at 15:26:51
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:26:54 ---
+
+III_inone end at 15:27:31
+
+
+III_inone start at 15:27:34
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:27:37 ---
+
+III_inone end at 15:28:18
+
+
+III_inone start at 15:28:21
+
+
+III_inone start at 15:28:21
+TOOL is not the first instance
+III_inone end at 15:28:25
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:28:24 ---
+
+III_inone end at 15:29:08
+
+
+III_inone start at 15:29:10
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:29:13 ---
+
+III_inone end at 15:30:46
+
+
+III_inone start at 15:30:53
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:30:56 ---
+
+III_inone end at 15:31:06
+
+
+III_inone start at 15:31:28
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:31:30 ---
+
+III_inone end at 15:31:42
+
+
+III_inone start at 15:34:11
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:34:14 ---
+
+III_inone end at 15:34:25
+
+
+III_inone start at 15:34:32
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:34:35 ---
+
+III_inone end at 15:34:57
+
+
+III_inone start at 15:39:05
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:39:08 ---
+
+III_inone end at 15:39:41
+
+
+III_inone start at 15:42:14
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:42:18 ---
+
+III_inone end at 15:42:50
+
+
+III_inone start at 15:42:51
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:42:54 ---
+
+III_inone end at 15:47:58
+
+
+III_inone start at 15:54:31
+
+
+III_inone start at 15:54:31
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 15:54:33 ---
+
+III_inone end at 15:56:21
+
+
+III_inone start at 16:14:18
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 16:14:22 ---
+
+III_inone end at 16:16:56
+
+
+III_inone start at 16:27:44
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-01-14 16:27:48 ---
+
+III_inone end at 16:28:22
+
+
+III_inone start at 16:28:24

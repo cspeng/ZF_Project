@@ -1,0 +1,535 @@
+
+III_inone start at 08:40:07
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-12 08:40:11 ---
+
+local setup...
+app starts now.
+--offset value at 11.7--
+
+App end here.
+--- Data Source closed on 19-12-12 08:51:33 ---
+close serial SafePort.
+III_inone end at 08:51:33
+
+III_inone start at 09:38:08
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-12 09:38:12 ---
+
+local setup...
+--offset value at 4.6--
+app starts now.
+--offset value at 4.5--
+--offset value at 4.1--
+--offset value at 3.6--
+--offset value at 3.2--
+--offset value at 2.7--
+--offset value at 2.1--
+--offset value at 1.3--
+--offset value at 0.8--
+--offset value at 0.6--
+--offset value at 0.7--
+--offset value at 1.0--
+--offset value at 1.0--
+--offset value at 1.2--
+--offset value at 1.4--
+--offset value at 2.0--
+--offset value at 2.5--
+--offset value at 3.6--
+--offset value at 4.1--
+--offset value at 4.6--
+--offset value at 4.9--
+--offset value at 4.7--
+--offset value at 4.5--
+--offset value at 4.2--
+--offset value at 3.7--
+--offset value at 3.3--
+--offset value at 3.0--
+--offset value at 2.5--
+--offset value at 1.9--
+--offset value at 1.2--
+--offset value at 0.7--
+--offset value at 0.5--
+--offset value at 0.4--
+--offset value at 0.6--
+--offset value at 0.9--
+--offset value at 1.2--
+--offset value at 1.6--
+--offset value at 6.6--
+--offset value at -9.3--
+--offset value at -11.1--
+--offset value at -10.4--
+--offset value at -7.9--
+--offset value at -5.3--
+--offset value at -9.0--
+--offset value at -19.2--
+--offset value at -32.4--
+--offset value at -2.6--
+--offset value at -2.0--
+--offset value at -1.5--
+--offset value at -0.7--
+--offset value at -0.3--
+--offset value at 0.2--
+--offset value at 0.7--
+--offset value at 1.2--
+--offset value at 1.6--
+--offset value at 2.7--
+--offset value at 3.7--
+--offset value at 4.5--
+--offset value at 5.3--
+--offset value at 6.9--
+--offset value at 2.9--
+--offset value at -7.9--
+--offset value at -21.6--
+--offset value at -36.4--
+--offset value at 3.3--
+--offset value at 3.2--
+--offset value at 3.2--
+--offset value at 3.1--
+--offset value at 2.6--
+--offset value at 2.2--
+--offset value at 1.7--
+--offset value at 0.8--
+--offset value at 0.4--
+--offset value at 0.3--
+--offset value at 0.2--
+--offset value at -0.1--
+--offset value at 0.4--
+--offset value at -0.1--
+--offset value at -12.1--
+--offset value at -32.2--
+--offset value at -3.0--
+--offset value at -1.6--
+--offset value at -0.3--
+--offset value at 1.2--
+--offset value at 2.6--
+--offset value at 3.4--
+--offset value at 4.0--
+--offset value at 4.0--
+--offset value at 4.0--
+--offset value at 4.0--
+--offset value at 3.8--
+--offset value at 3.3--
+--offset value at 2.8--
+--offset value at 2.1--
+--offset value at -1.4--
+--offset value at -5.6--
+--offset value at 2.3--
+--offset value at 21.9--
+--offset value at -0.9--
+--offset value at -5.1--
+--offset value at -6.8--
+--offset value at -6.8--
+--offset value at -6.2--
+--offset value at -12.0--
+--offset value at -26.9--
+--offset value at -0.1--
+--offset value at -0.3--
+--offset value at -1.7--
+--offset value at -1.0--
+--offset value at -0.6--
+--offset value at -0.7--
+--offset value at 0.9--
+--offset value at 2.4--
+--offset value at 3.2--
+--offset value at 5.1--
+--offset value at -2.0--
+--offset value at -11.5--
+--offset value at -22.5--
+--offset value at -35.3--
+--offset value at -48.2--
+--offset value at -59.5--
+--offset value at 0.8--
+--offset value at 2.3--
+--offset value at 3.6--
+--offset value at 4.6--
+--offset value at 7.3--
+--offset value at 13.6--
+--offset value at 16.8--
+--offset value at 13.5--
+--offset value at 11.0--
+--offset value at 8.9--
+--offset value at 7.0--
+--offset value at 5.6--
+--offset value at 3.8--
+--offset value at -2.5--
+--offset value at -16.8--
+--offset value at -12.8--
+--offset value at -9.6--
+--offset value at -7.1--
+--offset value at -4.9--
+--offset value at -3.3--
+--offset value at -2.0--
+--offset value at -0.9--
+--offset value at 8.6--
+--offset value at 14.3--
+--offset value at 12.6--
+--offset value at 11.0--
+--offset value at 9.4--
+--offset value at 8.1--
+--offset value at 6.9--
+--offset value at 5.0--
+--offset value at -3.7--
+--offset value at -15.3--
+--offset value at -23.8--
+--offset value at -18.4--
+--offset value at -14.3--
+--offset value at -11.1--
+--offset value at -8.5--
+--offset value at -6.3--
+--offset value at -3.6--
+--offset value at 12.3--
+--offset value at 9.9--
+--offset value at 8.0--
+--offset value at 7.1--
+--offset value at 6.6--
+--offset value at 6.9--
+--offset value at 6.0--
+--offset value at -10.8--
+--offset value at -7.3--
+--offset value at -4.6--
+--offset value at -3.0--
+--offset value at -1.9--
+--offset value at -0.9--
+--offset value at -0.3--
+--offset value at -0.7--
+--offset value at -3.6--
+--offset value at -6.7--
+--offset value at -8.2--
+--offset value at -6.3--
+--offset value at -9.8--
+--offset value at -29.6--
+--offset value at -1.6--
+--offset value at -0.7--
+--offset value at -0.1--
+--offset value at 0.7--
+--offset value at 2.6--
+--offset value at 14.3--
+--offset value at 1.5--
+--offset value at 1.8--
+--offset value at 2.1--
+--offset value at 2.6--
+--offset value at 2.9--
+--offset value at 7.2--
+--offset value at 1.0--
+--offset value at -19.3--
+--offset value at 2.6--
+--offset value at 4.1--
+--offset value at 5.0--
+--offset value at 7.1--
+--offset value at 7.6--
+--offset value at 6.5--
+--offset value at 17.2--
+--offset value at 14.0--
+--offset value at 14.9--
+--offset value at 14.5--
+--offset value at 12.2--
+--offset value at 10.5--
+--offset value at 9.0--
+--offset value at -1.6--
+--offset value at -19.4--
+--offset value at -15.8--
+--offset value at -12.3--
+--offset value at -9.6--
+--offset value at -7.4--
+--offset value at -5.6--
+--offset value at -4.3--
+--offset value at -3.0--
+--offset value at -2.1--
+--offset value at -0.9--
+--offset value at 0.0--
+--offset value at 0.7--
+--offset value at 1.7--
+--offset value at 2.7--
+--offset value at 3.5--
+--offset value at 3.9--
+--offset value at 3.7--
+--offset value at 3.7--
+--offset value at 3.6--
+--offset value at 3.2--
+--offset value at 2.9--
+--offset value at 2.7--
+--offset value at 2.1--
+--offset value at 1.3--
+--offset value at 0.8--
+--offset value at 0.6--
+--offset value at 0.5--
+--offset value at 0.6--
+--offset value at 0.9--
+--offset value at 1.2--
+--offset value at 1.4--
+--offset value at 1.8--
+--offset value at 2.5--
+--offset value at 3.6--
+--offset value at 4.4--
+--offset value at 4.8--
+--offset value at 4.8--
+--offset value at 4.6--
+--offset value at 4.2--
+--offset value at 3.7--
+--offset value at 3.3--
+--offset value at 2.8--
+--offset value at 2.1--
+--offset value at 1.6--
+--offset value at 1.0--
+--offset value at 0.8--
+--offset value at 0.6--
+--offset value at 0.7--
+--offset value at 0.8--
+--offset value at 1.1--
+--offset value at 1.3--
+--offset value at 1.4--
+--offset value at 2.0--
+--offset value at 3.0--
+--offset value at 3.9--
+--offset value at 4.2--
+--offset value at 4.1--
+--offset value at 3.9--
+--offset value at 3.7--
+--offset value at 3.5--
+--offset value at 3.2--
+--offset value at 2.6--
+--offset value at 2.3--
+--offset value at 1.7--
+--offset value at 1.3--
+--offset value at 1.0--
+--offset value at 1.0--
+--offset value at 1.2--
+--offset value at 1.4--
+--offset value at 1.6--
+--offset value at 1.9--
+--offset value at 1.9--
+--offset value at 2.4--
+--offset value at 2.8--
+--offset value at 3.5--
+--offset value at 3.7--
+--offset value at 3.7--
+--offset value at 3.6--
+--offset value at 3.4--
+--offset value at 3.3--
+--offset value at 3.3--
+--offset value at 3.0--
+--offset value at 2.5--
+--offset value at 1.9--
+--offset value at 1.5--
+--offset value at 1.1--
+--offset value at 0.9--
+--offset value at 0.9--
+--offset value at 0.9--
+--offset value at 1.2--
+--offset value at 1.4--
+--offset value at 1.8--
+--offset value at 2.3--
+--offset value at 3.2--
+--offset value at 3.8--
+--offset value at 4.3--
+--offset value at 4.5--
+--offset value at 5.3--
+--offset value at 4.1--
+--offset value at -8.0--
+--offset value at 3.8--
+--offset value at 3.6--
+--offset value at 3.5--
+--offset value at 3.1--
+--offset value at 2.9--
+--offset value at 2.4--
+
+App end here.
+--- Data Source closed on 19-12-12 09:39:52 ---
+close serial SafePort.
+III_inone end at 09:39:52
+
+III_inone start at 09:40:48
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-12 09:40:52 ---
+
+local setup...
+app starts now.
+--offset value at -1.6--
+--offset value at 1.7--
+
+App end here.
+--- Data Source closed on 19-12-12 09:44:33 ---
+close serial SafePort.
+III_inone end at 09:44:34
+
+III_inone start at 09:44:44
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-12 09:44:47 ---
+
+local setup...
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-12 09:45:01 ---
+close serial SafePort.
+III_inone end at 09:45:02
+
+III_inone start at 09:45:16
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-12 09:45:20 ---
+
+local setup...
+app starts now.
+--offset value at 1.5--
+
+App end here.
+--- Data Source closed on 19-12-12 09:46:28 ---
+close serial SafePort.
+III_inone end at 09:46:29
+
+III_inone start at 09:46:55
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 19-12-12 09:46:59 ---
+
+local setup...
+app starts now.
+--offset value at 1.5--
+--offset value at 1.4--
+--offset value at 1.5--
+--offset value at 1.4--
+--offset value at 1.1--
+--offset value at 1.1--
+--offset value at 0.8--
+--offset value at 0.6--
+--offset value at 0.7--
+--offset value at 1.0--
+--offset value at 1.2--
+--offset value at 1.2--
+--offset value at 1.4--
+--offset value at 1.8--
+--offset value at 2.3--
+--offset value at 2.5--
+--offset value at 2.6--
+--offset value at 2.5--
+--offset value at 2.1--
+--offset value at 1.6--
+--offset value at 1.5--
+--offset value at 1.6--
+--offset value at 1.5--
+--offset value at 1.6--
+--offset value at -3.7--
+ds-stream error at loop:9200!
+ds-stream error at loop:9200!
+ds-stream error at loop:9100!
+--offset value at 1.3--
+--offset value at 1.0--
+--offset value at 1.0--
+--offset value at 0.8--
+--offset value at 0.8--
+--offset value at 0.9--
+--offset value at 1.1--
+--offset value at 1.6--
+--offset value at 1.7--
+--offset value at 1.5--
+--offset value at 2.3--
+--offset value at 1.6--
+--offset value at -15.8--
+ds-stream error at loop:9200!
+--offset value at 0.1--
+--offset value at 0.3--
+--offset value at 0.7--
+--offset value at 1.3--
+--offset value at 1.9--
+--offset value at 2.2--
+--offset value at 2.1--
+--offset value at 2.1--
+--offset value at 1.8--
+--offset value at 1.6--
+--offset value at 1.7--
+--offset value at 1.6--
+--offset value at 1.2--
+--offset value at 0.9--
+--offset value at 0.7--
+--offset value at 0.5--
+--offset value at 0.6--
+--offset value at 1.0--
+--offset value at 1.2--
+
+App end here.
+--- Data Source closed on 19-12-12 09:47:18 ---
+close serial SafePort.
+III_inone end at 09:47:19
+
+III_inone start at 10:02:02
+
+
+
+ESP32 is ready.
+miss data at loop:0!
+
+Tools odbc data source...
+--- connected on 19-12-12 10:02:05 ---
+
+local setup...
+--offset value at 1.8--
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-12 10:02:46 ---
+close serial SafePort.
+III_inone end at 10:02:47
+
+III_inone start at 10:07:00
+
+
+
+ESP32 is ready.
+miss data at loop:0!
+
+Tools odbc data source...
+--- connected on 19-12-12 10:07:03 ---
+
+local setup...
+--offset value at 0.5--
+app starts now.
+
+App end here.
+--- Data Source closed on 19-12-12 10:07:39 ---
+close serial SafePort.
+III_inone end at 10:07:40
+
+III_inone start at 15:00:00
+
+
+
+ESP32 is ready.
+miss data at loop:0!
+
+Tools odbc data source...
+--- connected on 19-12-12 15:00:03 ---
+
+local setup...
+app starts now.
+ds-stream error at loop:9200!
+III_inone end at 15:12:20

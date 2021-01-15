@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+
+  <node name="tcp_pot_mb" pkg="pot3b" type="tcp_pot_mb.py" output="screen"/>
+
+  <node name="tcp_server_pot"  pkg="pot3b" type="tcp_server_pot.py" output="screen"/>
+
+  <node name="check_msg_interface" pkg="rosserial_server" type="socket_node" output="screen"
+    args="check_msg:=/interface" />
+
+</launch>

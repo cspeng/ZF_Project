@@ -1,0 +1,1000 @@
+ 1001  rviz
+ 1002  exit
+ 1003  roslaunch rplidar_ros rplidar.launch
+ 1004  exit
+ 1005  lsusb
+ 1006  exit
+ 1007  lsusb
+ 1008  lsubs
+ 1009  ls /dev/
+ 1010  ls /dev/p*
+ 1011  ls /dev/
+ 1012  roslaunch rplidar_ros view_rplidar.launch
+ 1013  cd dashgo_ws
+ 1014  catkin_make
+ 1015  exit
+ 1016  rostopic lisgt
+ 1017  rostopic list
+ 1018  exit
+ 1019  rostopic list
+ 1020  rosrun rosserial_python serial_mode.py /dev/port3
+ 1021  rospack find rosserial_python
+ 1022  rosrun rosserial_python serial_node.py /dev/port3
+ 1023  exit
+ 1024  roslaunch rplidar_ros view_rplidar.launch
+ 1025  exut
+ 1026  exit
+ 1027  cd dashgo_ws
+ 1028  dashgo_MAKE
+ 1029  dashgo_make
+ 1030  roslaunch rplidar_ros view_rplidar.launch
+ 1031  rosrun rosserial_python serial_node.py /dev/port3
+ 1032  rostopic list
+ 1033  roslaunch pathgo_imu demo.launch
+ 1034  exit
+ 1035  roscore
+ 1036  exit
+ 1037  roslaunch pathgo_imu demo.launch
+ 1038  lsusb
+ 1039  ls /dev/tty*
+ 1040  ls /dev/ttyP*
+ 1041  ls /dev/ttyp*
+ 1042  ls /dev/p*
+ 1043  ls /dev/ttyU*
+ 1044  rostopic list
+ 1045  rostopic echo imu_angle
+ 1046  rostopic list
+ 1047  rostopic echo imu
+ 1048  roslaunch pathgo_imu view_imu.launch
+ 1049  ls /dev/ttyU*
+ 1050  lsusb
+ 1051  ls /dev/ttyU*
+ 1052  ls /dev/p*
+ 1053  rostopic list
+ 1054  rostopic echo sonar0
+ 1055  rostopic echo sonar1
+ 1056  rostopic echo imu_angle
+ 1057  roslaunch dashgo_driver demo_imu.launch
+ 1058  exit
+ 1059  roslaunch dashgo_driver demo_imu.launch
+ 1060  cat readme.md
+ 1061  cat README.md
+ 1062  cat /dev/serial0
+ 1063  cat /dev/serial1
+ 1064  cat /dev/serial0
+ 1065  cat /dev/ttyAMA0
+ 1066  lsusb
+ 1067  ls /dev/p*
+ 1068  sudo apt-get install minicom
+ 1069  exit
+ 1070  ls /dev/p*
+ 1071  cat /dev/port4
+ 1072  ls /dev/p*
+ 1073  ls /dev/s*
+ 1074  ls /dev/se*
+ 1075  ls /dev/ttyA*
+ 1076  ls /dev/ttyU*
+ 1077  ls /dev/ttyA*
+ 1078  ls -lh /dev.serial*
+ 1079  ls -lh /dev/serial*
+ 1080  groups
+ 1081  cat /dev/serial0
+ 1082  cat /dev/serial1
+ 1083  cat /dev/ttyAMA0
+ 1084  groups
+ 1085  sudo usermod -a -G dialout eaibot
+ 1086  groups
+ 1087  ls -lh /dev/serial*
+ 1088  exit
+ 1089  ls -lh /dev/serial*
+ 1090  cat /dev/serial0
+ 1091  exit
+ 1092  sudo chmod 777 /dev/serial0
+ 1093  sudo chown eaibot:eaibot /dev/serial0
+ 1094  ls -lh /dev/serial*
+ 1095  cat /dev/serial0
+ 1096  cat /dev/serial1
+ 1097  cat /dev/ttyAMA0
+ 1098  ls -lh /dev/serial*
+ 1099  groups
+ 1100  cat /dev/serial0
+ 1101  cat /dev/ttyAMA0
+ 1102  exit
+ 1103  roslaunch dashgo_driver demo_imu.launch
+ 1104  ls
+ 1105  ls /dev/
+ 1106  ls /dev/p*
+ 1107  cat /dev/port4
+ 1108  ls -lh /dev/port*
+ 1109  cat /dev/port4
+ 1110  cat --help
+ 1111  cat
+ 1112  cat
+ 1113  exit
+ 1114  roslaunch dashgo_driver demo_imu.launch
+ 1115  rosrun rqt_topic rqt_topic
+ 1116  rostopic list
+ 1117  rostopic echo /voltage_value
+ 1118  exit
+ 1119  lsusb
+ 1120  ls /dev/s*
+ 1121  ls /dev/ttyCOM*
+ 1122  ls /dev/tty*
+ 1123  ls /dev/p*
+ 1124  ls /dev/s*
+ 1125  ls /dev/serial*
+ 1126  cat /dev/ttyAMA0
+ 1127  ls /dev/ttyA*
+ 1128  ls /dev/ttyAMA0
+ 1129  cat /ev/serial0
+ 1130  cat /dev/serial0
+ 1131  roslaunch dashgo_driver demo_imu.launch
+ 1132  roslaunch dashgo_driver demo.launch
+ 1133  groups
+ 1134  exit
+ 1135  ls -lh /dev/port*
+ 1136  ls -lh /dev/serial*
+ 1137  exit
+ 1138  roslaunch pathgo_imu demo.launch
+ 1139  ls -lh /dev/serial*
+ 1140  cat /dev/serial0
+ 1141  cat /dev/ttyAMA*
+ 1142  ls -lh /dev/ttyAMA*
+ 1143  sudo cat /dev/serial0
+ 1144  ls /dev/tty*
+ 1145  ls dev/p*
+ 1146  ls /dev/port*
+ 1147  roslaunch pathgo_imu demo.launch
+ 1148  ls -lh /dev/serial*
+ 1149  cat /dev/serial0
+ 1150  ls -lh /dev/serial*
+ 1151  groups
+ 1152  ls -lh /dev/port*
+ 1153  groups
+ 1154  sudo chmod 777 /dev/ttyAMA0
+ 1155  ls -lh /dev/serial*
+ 1156  ls -lh /dev/ttyA*
+ 1157  ifconfig
+ 1158  cat /dev/serial0
+ 1159  sudo raspi-config
+ 1160  exit
+ 1161  ls -lh /dev/serial*
+ 1162  cat /dev/serial0
+ 1163  eixt
+ 1164  exit
+ 1165  sudo nano /boot/cmdline.txt
+ 1166  exit
+ 1167  sudo nano /boot/cofig.txt
+ 1168  sudo nano /boot/config.txt
+ 1169  exit
+ 1170  sudo nano /boot/config.txt
+ 1171  sudo vim /boot/config.txt
+ 1172  exit
+ 1173  sudo apt-get update
+ 1174  exit
+ 1175  sudo apt-get update
+ 1176  ls -lh /dev/serial*
+ 1177  cat /dev/serial0
+ 1178  cat /dev/ttyAMA0
+ 1179  roslaunch pathgo_imu demo.launch
+ 1180  cd dashgo_ws
+ 1181  catkin_make
+ 1182  exit
+ 1183  roslaunch pathgo_imu demo.launch
+ 1184  roslaunch dashgo_driver demo_imu.launch
+ 1185  exit
+ 1186  rospack find gmapping
+ 1187  rospack find gmapping 
+ 1188  roslaunch dashgo_driver demo_imu.launch
+ 1189  roslaunch pathgo_imu demo.launch
+ 1190  roslaunch dashgo_driver demo_imu.launch
+ 1191  exit
+ 1192  roslaunch dashgo_driver demo_imu.launch
+ 1193  exit
+ 1194  rosrun rqt_topic rqt_topic
+ 1195  rostopic list
+ 1196  rostopic echo imu_angle
+ 1197  exit
+ 1198  roslaunch dashgo_driver demo_imu.launch
+ 1199  exit
+ 1200  lsusb
+ 1201  sudo chmod +x *.py
+ 1202  roslaunch dashgo_nav navigation_triogo.launch
+ 1203  roslaunch rplidar_ros rplidar.launch
+ 1204  exit
+ 1205  cd dashgo_ws
+ 1206  catkin_make
+ 1207  exit
+ 1208  lsusb
+ 1209  ls -lh /dev/r*
+ 1210  ls -lh /dev/rp*
+ 1211  exit
+ 1212  roscd rplidar_ros
+ 1213  cd launch
+ 1214  ls
+ 1215  roslaunch rplidar_ros rplidar.launch
+ 1216  exit
+ 1217  roslaunch rplidar_ros rplidar.launch
+ 1218  exit
+ 1219  sudo /boot/config.txt
+ 1220  sudo pluma /boot/config.txt
+ 1221  roslaunch rplidar_ros rplidar.launch
+ 1222  cd dashgo_ws
+ 1223  catkin_make
+ 1224  ls -lh /dev/rp*
+ 1225  roslaunch rplidar_ros rplidar.launch
+ 1226  exit
+ 1227  ls -lh /dev/rp*
+ 1228  roslaunch dashgo_nav navigation_triogo.launch
+ 1229  cd catkin_ws
+ 1230  cd dashgo_ws
+ 1231  catkin_make
+ 1232  exit
+ 1233  sudo pluma
+ 1234  roslaunch dashgo_nav navigation_triogo.launch
+ 1235  lsusb
+ 1236  ls -lh /dev/rp*
+ 1237  ls -lh /dev/port*
+ 1238  ls -lh /dev/serial*
+ 1239  ls -lh /dev/ttyCOM*
+ 1240  ls -lh /dev/ttyA*
+ 1241  lsusb
+ 1242  ls -lh /dev/ttyA*
+ 1243  ls -lh /dev/ttyCOM*
+ 1244  ls -lh /dev/ttyACM*
+ 1245  lsusb
+ 1246  cd /etc/udev
+ 1247  ls
+ 1248  ls rules.d
+ 1249  cat rules.d/cpanel.rules
+ 1250  exit
+ 1251  rosrun rqt_topic rqt_topic
+ 1252  rostopic list
+ 1253  rostopic echo ags_scan
+ 1254  rostopic echo chatter
+ 1255  exit
+ 1256  ls -lh /dev/ttyACM*
+ 1257  ls -lh /dev/ttyCOM*
+ 1258  roslaunch dashgo_nav navigation_triogo.launch
+ 1259  exit
+ 1260  rostopic list
+ 1261  rostopic echo chatter
+ 1262  rostopic list
+ 1263  rostopic echo batmon
+ 1264  rostopic list
+ 1265  rostopic echo locator
+ 1266  rostopic echo locater
+ 1267  rostopic echo chatter
+ 1268  exit
+ 1269  roslaunch dashgo_nav navigation_triogo.launch
+ 1270  exit
+ 1271  rostopic echo chatter
+ 1272  exit
+ 1273  ifconfig
+ 1274  roslaunch dashgo_nav navigation_triogo.launch
+ 1275  exit
+ 1276  sudo reboot
+ 1277  ifconfig
+ 1278  rostopic list
+ 1279  rostopic echo scan
+ 1280  exit
+ 1281  roslaunch dashgo_nav navigation_triogo.launch
+ 1282  exit
+ 1283  roslaunch rplidar_ros rplidar.launch
+ 1284  exigt
+ 1285  exit
+ 1286  roslaunch dashgo_nav navigation_triogo.launch
+ 1287  exit
+ 1288  rosrun rqt_tf_tree rqt_tf_tree
+ 1289  roslaunch dashgo_nav navigation_triogo.launch
+ 1290  roscd gmapping
+ 1291  ls
+ 1292  rospack find slam_
+ 1293  rospack find gmapping 
+ 1294  rospack find bridge
+ 1295  rospack find slam*
+ 1296  rospack list
+ 1297  rospack list |grep slam*
+ 1298  rqt &
+ 1299  rqt
+ 1300  rospack list |grep slam*
+ 1301  rospack find open_slam
+ 1302  rospack find open_
+ 1303  rospack list |grep slam*
+ 1304  exit
+ 1305  rospack find hector_
+ 1306  exit
+ 1307  roslaunch dashgo_nav navigation_triogo.launch
+ 1308  exit
+ 1309  roscore
+ 1310  rosrun dashgo_tools triogo_scan.py
+ 1311  ls
+ 1312  cd dashgo_ws/
+ 1313  ls
+ 1314  cd src/
+ 1315  ls
+ 1316  cd dashgo/
+ 1317  ls
+ 1318  cd rplidar_ros/
+ 1319  ls
+ 1320  cat README.md 
+ 1321  q!
+ 1322  clear
+ 1323  ls /dev/p*
+ 1324  ls /dev/ttyA*
+ 1325  ls /dev/ttyU*
+ 1326  ls /dev/ttyA*
+ 1327  ls /dev/serial*
+ 1328  ls /dev/rp*
+ 1329  ls /dev/das*
+ 1330  ls /dev/dasgo*
+ 1331  ls /dev/A
+ 1332  exit
+ 1333  cd dashgo_ws/
+ 1334  ls
+ 1335  cd src/
+ 1336  ls
+ 1337  cd dashgo/
+ 1338  ls
+ 1339  cd dashgo_tools/
+ 1340  ls
+ 1341  cd src/
+ 1342  ls
+ 1343  cd ..
+ 1344  cd scripts/
+ 1345  ls
+ 1346  exit
+ 1347  ls
+ 1348  cd package_ws/
+ 1349  ls
+ 1350  cd src/
+ 1351  ls
+ 1352  cd 
+ 1353  cd Lidar_Upgrade/
+ 1354  ls
+ 1355  exit
+ 1356  ifconfig
+ 1357  exit
+ 1358  rostopic list
+ 1359  rostopic echo ags_status
+ 1360  rostopic list
+ 1361  rostopic echo teleop_joystick
+ 1362  roslaunch dashgo_nav navigation_triogo.launch
+ 1363  exit
+ 1364  exit
+ 1365  roslaunch dashgo_nav navigation_triogo.launch
+ 1366  exit
+ 1367  roslaunch dashgo_nav navigation_triogo.launch
+ 1368  exit
+ 1369  roslaunch dashgo_nav navigation_triogo.launch
+ 1370  exit
+ 1371  sudo pluma
+ 1372  roslaunch dashgo_nav navigation_triogo.launch
+ 1373  exit
+ 1374  roslaunch dashgo_nav navigation_triogo.launch
+ 1375  exit
+ 1376  roslaunch dashgo_nav navigation_triogo.launch
+ 1377  exit
+ 1378  rosrun dashgo_tools triogo_scan.py
+ 1379  exit
+ 1380  roslaunch dashgo_nav navigation_triogo.launch
+ 1381  roscore
+ 1382  roslaunch dashgo_driver demo_imu.launch
+ 1383  exit
+ 1384  rosrun dashgo_tools triogo_scantest.py
+ 1385  exit
+ 1386  rosrun dashgo_tools triogo_e31port.py
+ 1387  exit
+ 1388  roslaunch dashgo_nav navigation_triogo.launch
+ 1389  exit
+ 1390  ls -lh /dev/ttyCOM*
+ 1391  lsusb
+ 1392  ls -lh /dev/port*
+ 1393  ls -lh /dev/rp*
+ 1394  ls -lh /dev/ttyUSB2
+ 1395  ls -lh /dev/rp*
+ 1396  ls -lh /dev/port*
+ 1397  sudo pluma
+ 1398  roslaunch dashgo_nav navigation_triogo.launch
+ 1399  ls -lh /dev/port*
+ 1400  ls -lh /dev/rp*
+ 1401  ls -lh /dev/port*
+ 1402  ls -lh /dev/rp*
+ 1403  exit
+ 1404  python triogo_sensors.py
+ 1405  roslaunch dashgo_nav navigation_triogo.launch
+ 1406  exit
+ 1407  roslaunch dashgo_nav navigation_triogo.launch
+ 1408  exit
+ 1409  rospack find rqt*
+ 1410  rosrun dashgo_tools triogo_scantest.py
+ 1411  exit
+ 1412  ls -lh /dev/ttyCOM*
+ 1413  rosrun dashgo_tools triogo_e31port.py
+ 1414  exit
+ 1415  roslaunch dashgo_nav navigation_triogo.launch
+ 1416  exit
+ 1417  rosrun dashgo_tools triogo_scantest.py
+ 1418  exit
+ 1419  rosrun dashgo_tools triogo_e31port.py
+ 1420  exit
+ 1421  roslaunch dashgo_nav navigation_triogo.launch
+ 1422  exit
+ 1423  roslaunch dashgo_nav navigation_triogo.launch
+ 1424  rosrun dashgo_tools triogo_e31port.py
+ 1425  rosrun dashgo_tools triogo_scantest.py
+ 1426  roslaunch dashgo_driver demo_sonic.launch
+ 1427  exit
+ 1428  roslaunch dashgo_driver demo_sonic.launch
+ 1429  roslaunch dashgo_driver demo_sonar.launch
+ 1430  roslaunch dashgo_driver demo_imu.launch
+ 1431  exit
+ 1432  rostopic list
+ 1433  rostopic echo sonar0
+ 1434  rostopic echo sonar1
+ 1435  rostopic echo sonar0
+ 1436  rostopic echo sonar3
+ 1437  exit
+ 1438  ls -lh /dev/port*
+ 1439  ls -lh /dev/ACM*
+ 1440  ls -lh /dev/ttyACM*
+ 1441  ls -lh /dev/ttyUSB*
+ 1442  ls -lh /dev/port*
+ 1443  rosrun dashgo_tools triogo_e31port.py
+ 1444  ls
+ 1445  exit
+ 1446  nana
+ 1447  nano
+ 1448  exit
+ 1449  roslaunch dashgo_nav navigation_triogo.launch
+ 1450  cd /home/eaibot/dashgo_ws/src/dashgo/dashgo_tools/scripts
+ 1451  python triogo_scantest.py
+ 1452  exit
+ 1453  roscore
+ 1454  roslaunch dashgo_nav navigation_triogo.launch
+ 1455  exit
+ 1456  cd /home/eaibot/dashgo_ws/src/dashgo/dashgo_tools/scripts
+ 1457  python triogo_scantest.py
+ 1458  clearf
+ 1459  clear
+ 1460  python triogo_scantest.py
+ 1461  exit
+ 1462  roslaunch dashgo_nav navigation_triogo.launch
+ 1463  exit
+ 1464  roslaunch dashgo_nav navigation_triogo.launch
+ 1465  exit
+ 1466  roslaunch dashgo_nav navigation_triogo.launch
+ 1467  rosparam list
+ 1468  rosparam
+ 1469  rosparam get /triogo_track/ZBA_autoback
+ 1470  exit
+ 1471  rosparam list
+ 1472  rosparam get rf_id
+ 1473  rosparam get /triogo_track/rf_id
+ 1474  rosparam get /triogo_track/
+ 1475  rosparam get /triogo_track
+ 1476  rosparam get triogo_track
+ 1477  exit
+ 1478  rosparam get triogo_track
+ 1479  roslaunch dashgo_nav navigation_triogo.launch
+ 1480  exit
+ 1481  roslaunch dashgo_nav navigation_triogo.launch
+ 1482  exit
+ 1483  roslaunch dashgo_nav navigation_triogo.launch
+ 1484  exit
+ 1485  rostopic ags_status
+ 1486  rostopic  echo ags_status
+ 1487  exit
+ 1488  ls
+ 1489  cd dashgo_ws/src/dashgo/dashgo_tools/
+ 1490  ls
+ 1491  cd scripts/
+ 1492  ls
+ 1493  vim triogo_track.py 
+ 1494  exit
+ 1495  roslaunch dashgo_nav navigation_triogo.launch
+ 1496  exit
+ 1497  roslaunch dashgo_nav navigation_triogo.launch
+ 1498  exit
+ 1499  rostopic  echo ags_status
+ 1500  exit
+ 1501  rosrun dashgo_tools triogo_track.py
+ 1502  roscd dashgo_tools
+ 1503  python triogo_track.py
+ 1504  cd scripts
+ 1505  python triogo_track.py
+ 1506  exit
+ 1507  roscd dashgo_tools
+ 1508  ls
+ 1509  ls scripts
+ 1510  cd ~
+ 1511  rosrun dashgo_tools triogo_track.py
+ 1512  exit
+ 1513  rosrun dashgo_tools triogo_track.py
+ 1514  exit
+ 1515  rostopic  echo ags_status
+ 1516  rqt &
+ 1517  exit
+ 1518  rosrun dashgo_tools triogo_track.py
+ 1519  exit
+ 1520  roslaunch dashgo_nav navigation_triogo.launch
+ 1521  exit
+ 1522  roslaunch dashgo_nav navigation_triogo.launch
+ 1523  rosrun dashgo_tools triogo_track.py
+ 1524  exit
+ 1525  roslaunch dashgo_nav navigation_triogo.launch
+ 1526  exit
+ 1527  rosparams
+ 1528  rosparam
+ 1529  rosparam list
+ 1530  rosparam triogo_track
+ 1531  rosparam get triogo_track
+ 1532  exit
+ 1533  roslaunch dashgo_nav navigation_triogo.launch
+ 1534  exit
+ 1535  rosrun dashgo_tools triogo_track.py
+ 1536  exit
+ 1537  cd dashgo_ws/src/dashgo/dashgo_tools/params/
+ 1538  ls
+ 1539  vim NAVI_F5D0.yaml 
+ 1540  ls
+ 1541  cd
+ 1542  exit
+ 1543  roslaunch dashgo_nav navigation_triogo.launch
+ 1544  exit
+ 1545  roslaunch dashgo_nav navigation_triogo.launch
+ 1546  exit
+ 1547  cd dashgo_ws/src/dashgo/dashgo_tools/
+ 1548  cd params/
+ 1549  ls
+ 1550  vim NAVI_F5D0.yaml 
+ 1551  cd
+ 1552  exit
+ 1553  roslaunch dashgo_nav navigation_triogo.launch
+ 1554  exit
+ 1555  cd dashgo_ws/src/dashgo/dashgo_tools/params/
+ 1556  vim NAVI_F5D0.yaml 
+ 1557  cd
+ 1558  roslaunch dashgo_nav navigation_triogo.launch
+ 1559  exit
+ 1560  ls
+ 1561  cd dashgo_ws/src/dashgo/dashgo_tools/params/
+ 1562  vim NAVI_F5D0.yaml 
+ 1563  cd
+ 1564  roslaunch dashgo_nav navigation_triogo.launch
+ 1565  cd dashgo_ws/src/dashgo/dashgo_tools/params/
+ 1566  vim NAVI_F5D0.yaml 
+ 1567  roslaunch dashgo_nav navigation_triogo.launch
+ 1568  vim NAVI_F5D0.yaml 
+ 1569  roslaunch dashgo_nav navigation_triogo.launch
+ 1570  vim NAVI_F5D0.yaml 
+ 1571  roslaunch dashgo_nav navigation_triogo.launch
+ 1572  exit
+ 1573  ifconfig
+ 1574  exit
+ 1575  ifconfig
+ 1576  clear
+ 1577  cd dashgo_ws/src/dashgo/dashgo_tools/startup/
+ 1578  ls
+ 1579  roslaunch dashgo_nav  navigation_triogo.launch 
+ 1580  exiit
+ 1581  exit
+ 1582  ls
+ 1583  cd dashgo_ws/
+ 1584  ls
+ 1585  catkin_make
+ 1586  roslaunch dashgo_nav  navigation_triogo.launch 
+ 1587  catkin_make
+ 1588  exit
+ 1589  ls -lh /dev/ttyAMA*
+ 1590  ls -lh /dev/serial*
+ 1591  ls -lh /dev/ttyAMA*
+ 1592  rostopic list
+ 1593  rostopic echo ags_status
+ 1594  rostopic echo chatter
+ 1595  rostopic echo locater
+ 1596  rostopic echo /locater
+ 1597  rostopic list
+ 1598  rostopic echo imu
+ 1599  rostopic echo ags_status
+ 1600  exit
+ 1601  roslaunch dashgo_nav  navigation_triogo.launch 
+ 1602  wzit
+ 1603  exit
+ 1604  rostopic list
+ 1605  rostopic echo ags_status
+ 1606  rostopic list
+ 1607  rostopic echo imu
+ 1608  roslaunch dashgo_nav  navigation_triogo.launch 
+ 1609  cd dashgo_ws/
+ 1610  catkin_make
+ 1611  roslaunch dashgo_nav  navigation_triogo.launch 
+ 1612  ls /dev/serial0
+ 1613  lsusb
+ 1614  roslaunch dashgo_nav  navigation_triogo.launch 
+ 1615  exit
+ 1616  cd catkin_ws
+ 1617  cd dashgo_ws
+ 1618  catkin_make
+ 1619  roscd ydlidar/startup
+ 1620  sudo chmod 777 ./*
+ 1621  sudo sh initenv.sh
+ 1622  ls /dev
+ 1623  ls -lh y*
+ 1624  ls -lh /dev/y*
+ 1625  exit
+ 1626  rviz
+ 1627  exit
+ 1628  roslaunch dashgo_driver demo_imu.launch
+ 1629  exit
+ 1630  rostopic list
+ 1631  rostopic echo /imu_angle
+ 1632  exit
+ 1633  roslaunch dashgo_driver demo_imu.launch
+ 1634  exitr
+ 1635  exit
+ 1636  roslaunch dashgo_nav navigation_demo_imu.launch
+ 1637  exit
+ 1638  roslaunch dashgo_nav navigation_demo_imu.launch
+ 1639  exit
+ 1640  rviz
+ 1641  exit
+ 1642  geany
+ 1643  exit
+ 1644  select-editor
+ 1645  mc
+ 1646  exit
+ 1647  sudo apt-get update
+ 1648  sudo dpkg --configure -a
+ 1649  sudo apt-get update
+ 1650  ls /boot
+ 1651  sudo apt-get install geany mc
+ 1652  sudo apt-get remove firefox
+ 1653  exit
+ 1654  ls /boot
+ 1655  sudo mcedit /boot/config.txt
+ 1656  exit
+ 1657  ls -lh /dev/serial
+ 1658  ls -lh /dev/serial*
+ 1659  cd catkin_ws
+ 1660  catkin_make
+ 1661  cd catkin_ws
+ 1662  source /opt/ros/kinetic/setup.bash
+ 1663  mkdir -p ~/catkin_ws/src
+ 1664  ls
+ 1665  caktin_make
+ 1666  catkin_make
+ 1667  ls /src
+ 1668  ls src
+ 1669  ls 
+ 1670  cd catkin_ws
+ 1671  catkin_make
+ 1672  cd dashgo_ws
+ 1673  catkin_make
+ 1674  cd catkin_ws
+ 1675  cd dashgo_ws
+ 1676  catkin_make
+ 1677  mc
+ 1678  cd dashgo_ws
+ 1679  catkin_make
+ 1680  rospack find v_msgs
+ 1681  roscd v_msgs
+ 1682  ls
+ 1683  cd msg
+ 1684  ls
+ 1685  rospack find v
+ 1686  exit
+ 1687  rospack list
+ 1688  rospack find v_msgs
+ 1689  caja
+ 1690  exit
+ 1691  mkdir scripts
+ 1692  cd dashgo_ws
+ 1693  catkin_make
+ 1694  rospack find pemsgo
+ 1695  catkin_make
+ 1696  roslaunch pemsgo pemsgo_nav.launch
+ 1697  exit
+ 1698  geany
+ 1699  mc
+ 1700  cd dashgo_ws
+ 1701  cd src
+ 1702  ls
+ 1703  cd pemsgo
+ 1704  ls
+ 1705  cd launch
+ 1706  ls
+ 1707  rn
+ 1708  caja
+ 1709  exit
+ 1710  roslaunch pemsgo pemsgo_nav.launch
+ 1711  exit
+ 1712  cd dashgo_ws
+ 1713  catkin_make
+ 1714  cd src
+ 1715  ls
+ 1716  catkin_make
+ 1717  cd ..
+ 1718  catkin_make
+ 1719  cd src
+ 1720  ls
+ 1721  catkin_create_pkg pemsgo std_msgs rospy roscpp
+ 1722  ls
+ 1723  cd..
+ 1724  cd ..
+ 1725  catkin_make
+ 1726  roslaunch pemsgo pemsgo_nav.launch
+ 1727  sudo mcedit /etc/hosts
+ 1728  roslaunch pemsgo pemsgo_nav.launch
+ 1729  rosrun rqt_topic rqt_topic
+ 1730  rqt
+ 1731  roscd robot_pose_publisher
+ 1732  roslaunch pemsgo pemsgo_nav.launch
+ 1733  exit
+ 1734  cd dashgo_ws
+ 1735  catkin_make
+ 1736  roslaunch pemsgo pemsgo_nav.launch
+ 1737  exit
+ 1738  roslaunch pemsgo pemsgo_nav.launch
+ 1739  exit
+ 1740  rosrun dashgo_tools check_action.py
+ 1741  exit
+ 1742  rosrun dashgo_tools check_action.py
+ 1743  rosrun dashgo_tools goal_action.py
+ 1744  rosrun dashgo_tools goals_action.py
+ 1745  roscd dashgo_tools
+ 1746  ls
+ 1747  cd scripts
+ 1748  rosrun dashgo_tools goals_action.py
+ 1749  exit
+ 1750  rosrun dashgo_tools check_server.py
+ 1751  rosrun dashgo_tools check_action.py
+ 1752  exit
+ 1753  roslaunch pemsgo pemsgo_nav.launch
+ 1754  exit
+ 1755  caja
+ 1756  exit
+ 1757  roslaunch pemsgo pemsgo_nav.launch
+ 1758  exit
+ 1759  roslaunch pemsgo pemsgo_nav.launch
+ 1760  exit
+ 1761  cd catkin_ws
+ 1762  cd dashgo_ws
+ 1763  catkin_make
+ 1764  exit
+ 1765  roslaunch pemsgo pemsgo_nav.launch
+ 1766  exit
+ 1767  mc
+ 1768  exit
+ 1769  rostopic list
+ 1770  rostopic echo /strip_ab
+ 1771  rostopic echo /imu_angle
+ 1772  mcedit /etc/hosts
+ 1773  rostopic list
+ 1774  rostopic list -v
+ 1775  exit
+ 1776  rostopic list -v
+ 1777  rostopic echo /strip_ab
+ 1778  rostopic list -v
+ 1779  exit
+ 1780  rosrun roserial_python serial_node /dev/port3
+ 1781  rosrun rosserial_python serial_node /dev/port3
+ 1782  rosrun rosserial_python serial_node.py /dev/port3
+ 1783  exit
+ 1784  roscore
+ 1785  exitr
+ 1786  exit
+ 1787  rm -rf ros_lib
+ 1788  rosrun roserial_arduino make_libraries.py
+ 1789  rosrun rosserial_arduino make_libraries.py
+ 1790  rosrun rosserial_arduino src/make_libraries.py
+ 1791  rosrun rosserial_arduino src/roserial_arduino/make_libraries.py
+ 1792  rosrun rosserial_arduino src/rosserial_arduino/make_libraries.py
+ 1793  roscd rosserial_arduino
+ 1794  ls
+ 1795  ls src
+ 1796  cd dashgo_ws
+ 1797  cd /dashgo_ws
+ 1798  ls
+ 1799  cd /
+ 1800  cd ~/dashgo_ws
+ 1801  ls
+ 1802  catkin_make
+ 1803  rosrun rosserial_arduino make_libraries.py
+ 1804  exitg
+ 1805  exit
+ 1806  rosrun rosserial_arduino make_libraries.py .
+ 1807  ls -lh /dev/tty*
+ 1808  ls -lh /dev/port*
+ 1809  ls -lh /dev/port3*
+ 1810  rosrun rosserial_python serial_node.py /dev/port3
+ 1811  ls -lh /dev/port*
+ 1812  rostopic list
+ 1813  rostopic echo batmon
+ 1814  rostopic echo locater
+ 1815  rostopic echo chatter
+ 1816  rostopic list
+ 1817  rostopic echo batmon
+ 1818  exit
+ 1819  exit
+ 1820  rqt
+ 1821  exit
+ 1822  rostopic echo chatter
+ 1823  exit
+ 1824  rostopic echo locater
+ 1825  exit
+ 1826  roscore
+ 1827  rostopic echo chatter
+ 1828  rosrun rosserial_python serial_node.py /dev/port3
+ 1829  exit
+ 1830  rosrun rosserial_python serial_node.py /dev/port3
+ 1831  roscore
+ 1832  exit
+ 1833  ls -lh /dev/y*
+ 1834  ls -lh /dev/port*
+ 1835  rviz
+ 1836  ls -lh /dev/port*
+ 1837  ls -lh /dev/y*
+ 1838  roslaunch ydlidar lidar.launch
+ 1839  roslaunch ydlidar g4.launch
+ 1840  roslaunch ydlidar g4_view.launch
+ 1841  exit
+ 1842  rosrun rosserial_python serial_node.py /dev/port3
+ 1843  exit
+ 1844  rostopic echo chatter
+ 1845  exit
+ 1846  cd dashgo_ws/src/dashgo/
+ 1847  cd ..
+ 1848  ls
+ 1849  cd dashgo/dashgo_tools/
+ 1850  ls
+ 1851  cd startup/
+ 1852  vim navigation
+ 1853  vim navigation_triogo.sh 
+ 1854  roslaunch dashgo_nav navigation_triogo.launch 
+ 1855  exit
+ 1856  roslaunch dashgo_nav navigation_triogo.launch 
+ 1857  exit
+ 1858  rostopic echo locater
+ 1859  exit
+ 1860  rostopic list
+ 1861  rostopic echo batmon
+ 1862  exit
+ 1863  rostopic echo chatter
+ 1864  exit
+ 1865  rosrun rosserial_python serial_node.py /dev/port3
+ 1866  exit
+ 1867  roscore
+ 1868  exiyt
+ 1869  exit
+ 1870  cython
+ 1871  ifconfig
+ 1872  ping 192.168.112.128
+ 1873  exit
+ 1874  ls
+ 1875  exit
+ 1876  pip install pypyodbc
+ 1877  sudo apt-get update
+ 1878  exit
+ 1879  pip install pypyodbc
+ 1880  pip install --upgrade pip
+ 1881  pip install pypyodbc
+ 1882  exit
+ 1883  python
+ 1884  exit
+ 1885  python
+ 1886  exit
+ 1887  ifconfig
+ 1888  sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc
+ 1889  sudo apt-get install unixodbc
+ 1890  sudo rm /var/cache/apt/archives/lock
+ 1891  sudo rm /var/lib/dpkg/lock
+ 1892  sudo apt-get install unixodbc unixodbc-dev freetds-dev tdsodbc
+ 1893  pip install pyodbc
+ 1894  sudo pip install pyodbc
+ 1895  pip install pypyodbc
+ 1896  python 
+ 1897  mkdir share
+ 1898  cd share/
+ 1899  ls
+ 1900  redis-cli
+ 1901  exit
+ 1902  cd share/freetds-0.95.75/
+ 1903  ./autogen.sh --prefix=/usr/local/freetds0.95 --enable-msdblib --with-tdsver=7.1 
+ 1904  make
+ 1905  sudo make install
+ 1906  sudo geany /home/eaibot/.bashrc
+ 1907  source  .bashrc 
+ 1908  cd
+ 1909  source  .bashrc 
+ 1910  tsql  -C
+ 1911  sudo geany /usr/local/freetds0.95/etc/freetds.conf
+ 1912  sudo geany /etc/odbcinst.ini
+ 1913  sudo geany /etc/odbc.ini
+ 1914  isql -v sqlDS Engg engg0222
+ 1915  exit
+ 1916  sudo apt-get install build-essential
+ 1917  exit
+ 1918  python setup.py build_ext -i
+ 1919  exit
+ 1920  pip install Cython
+ 1921  sudo pip install Cython
+ 1922  exit
+ 1923  python setup.py build_ext -i
+ 1924  isql -v sqlDS Engg engg0222
+ 1925  exit
+ 1926  isql -v sqlDS Engg engg0222
+ 1927  exit
+ 1928  sudo apt-get install redis-server
+ 1929  sudo pip install modbus_TK
+ 1930  EXIT
+ 1931  exit
+ 1932  sudo pip install redis
+ 1933  sudo apt-get install modbus_tk
+ 1934  sudo apt-get update
+ 1935  exit
+ 1936  python
+ 1937  exit
+ 1938  python setup.py install
+ 1939  sudo python setup.py install
+ 1940  exit
+ 1941  sudo apt-get update
+ 1942  sudo apt-get install modbus_tk
+ 1943  sudo apt-get install modbus-tk
+ 1944  exit
+ 1945  ls -lh /dev/ttyU*
+ 1946  lsusb
+ 1947  ls -lh /dev/port*
+ 1948  python
+ 1949  exit
+ 1950  python setup.py build_ext -i
+ 1951  redis-cli
+ 1952  exit
+ 1953  sudo apt-get install python-matplotlib
+ 1954  exit
+ 1955  python
+ 1956  exit
+ 1957  python
+ 1958  exit
+ 1959  python
+ 1960  exit
+ 1961  isql -v sqlDS Engg engg0222
+ 1962  exit
+ 1963  python bspview.py
+ 1964  python
+ 1965  python bspview.py
+ 1966  exit
+ 1967  python
+ 1968  exit
+ 1969  redis-cli
+ 1970  exit
+ 1971  python II_test.py
+ 1972  python
+ 1973  exit
+ 1974  redis-cli
+ 1975  exit
+ 1976  python
+ 1977  python II_test.py
+ 1978  top
+ 1979  python II_test.py
+ 1980  python II_tools/II_test.py
+ 1981  cd II_tools
+ 1982  exit
+ 1983  cd II_tools
+ 1984  python II_tools/II_test.py
+ 1985  python II_test.py
+ 1986  cd II_tools
+ 1987  python II_test.py
+ 1988  cd II_tools
+ 1989  python
+ 1990  export
+ 1991  $PATH
+ 1992  cat $PATH
+ 1993  export PATH
+ 1994  exit
+ 1995  cd II_tools
+ 1996  python
+ 1997  redis-cli
+ 1998  cd share
+ 1999  ls
+ 2000  history >> histlist.txt

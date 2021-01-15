@@ -1,0 +1,8 @@
+prefix=/home/eaibot/dashgo_ws/devel
+
+Name: pot3b
+Description: Description of pot3b
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/eaibot/dashgo_ws/devel/lib 
+Requires: 

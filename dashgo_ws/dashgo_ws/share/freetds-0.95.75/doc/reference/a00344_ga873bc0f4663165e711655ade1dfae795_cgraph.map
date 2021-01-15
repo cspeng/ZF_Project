@@ -1,0 +1,7 @@
+<map id="dbbind" name="dbbind">
+<area shape="rect" id="node2" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="508,61,611,88"/>
+<area shape="rect" id="node3" href="$a00350.html#ga302a4ce6559b81808e3be51615cd1b67" title="Call client&#45;installed error handler. " alt="" coords="365,36,441,62"/>
+<area shape="rect" id="node4" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="116,86,297,113"/>
+<area shape="rect" id="node5" href="$a00344.html#gaaf8349999c16b3c36caf5947747a2915" title="Test whether or not a datatype can be converted to another datatype. " alt="" coords="155,137,258,164"/>
+<area shape="rect" id="node6" href="$a00356.html#ga80487b313213f60d8be71a50a002bb2c" title="Test if a conversion is possible. " alt="" coords="345,137,460,164"/>
+</map>

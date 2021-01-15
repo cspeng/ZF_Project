@@ -1,0 +1,12 @@
+
+
+III_inone start at 08:34:03
+
+
+
+ESP32 is ready.
+
+Tools odbc data source...
+--- connected on 20-03-05 08:34:06 ---
+
+III_inone end at 08:34:26

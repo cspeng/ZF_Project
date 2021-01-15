@@ -1,0 +1,13 @@
+<!-- -->
+<launch>
+  <node name="camplus_relay" pkg="camplus" type="camplus_relay.py" output="screen"/>
+
+  <node name="arrcam" pkg="camplus" type="arrcam.py" output="screen"/>
+
+  <node name="check_msg_socket"  pkg="camplus" type="tcp_server.py" output="screen"/>
+
+  <node name="check_msg_interface" pkg="rosserial_server" type="socket_node" output="screen"
+    args="check_msg:=/interface" />
+
+</launch>
+

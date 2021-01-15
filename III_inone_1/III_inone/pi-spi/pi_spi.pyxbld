@@ -1,0 +1,5 @@
+def make_ext(modname, pyxfilename):
+    from distutils.extension import Extension
+    return Extension(modname, 
+        sources=[pyxfilename], include_dirs = ['.'], 
+        extra_compile_args=["-openmp"], extra_link_args=["-openmp"])

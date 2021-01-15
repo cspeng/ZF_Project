@@ -1,0 +1,21 @@
+<map id="tds_process_param_result_tokens" name="tds_process_param_result_tokens">
+<area shape="rect" id="node2" href="$a00360.html#ga0cb72d3f6943795c39db1fa692be0a58" title="Return a single byte from the input buffer. " alt="" coords="735,499,838,525"/>
+<area shape="rect" id="node4" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="1672,260,1775,287"/>
+<area shape="rect" id="node8" href="$a00362.html#gacb3354443bcefe7a500a500a4904cc05" title="process output parameters of a stored procedure. " alt="" coords="243,245,432,272"/>
+<area shape="rect" id="node20" href="$a00360.html#gad70d59fb317d098b0c9fd29dd77131a8" title="Unget will always work as long as you don&#39;t call it twice in a row. " alt="" coords="278,448,397,475"/>
+<area shape="rect" id="node3" href="$a00360.html#ga410619783bdf2bb60b0f27a5578e0e07" title="Read in one &#39;packet&#39; from the server. " alt="" coords="1185,409,1313,436"/>
+<area shape="rect" id="node5" href="$a00196.html#abf18b98efef6ce2dc0b97d658a3a1918" title="Call the client library&#39;s error handler (for library&#45;generated errors only) " alt="" coords="1552,361,1624,388"/>
+<area shape="rect" id="node6" href="$a00360.html#ga3e3f76009fce5ceedb2f42bb2c9aed2e" title="Close current socket for last socket close entire connection for MARS send FIN request. " alt="" coords="1367,412,1498,439"/>
+<area shape="rect" id="node7" href="$a00196.html#a79449d2f35a8acc8ed0585044f75524d" title="Dump the contents of data into the log file in a human readable format. " alt="" coords="1361,463,1504,489"/>
+<area shape="rect" id="node9" href="$a00358.html#ga314c65c067570dc1ef3e58bbfc4eb763" title="Adds a output parameter to TDSPARAMINFO. " alt="" coords="480,195,648,221"/>
+<area shape="rect" id="node10" href="$a00362.html#gad9b6b86f48be077fb44ac603845a0c27" title="Reads data metadata from wire. " alt="" coords="496,347,632,373"/>
+<area shape="rect" id="node16" href="$a00358.html#ga282d67682d293810625d87d566443c2d" title="Allocate data for a parameter. " alt="" coords="483,245,645,272"/>
+<area shape="rect" id="node17" href="$a00196.html#aaee3fe5c514ce5570c9548de9b16e0d9" title="Write a column value to the debug log. " alt="" coords="513,93,615,120"/>
+<area shape="rect" id="node19" href="$a00358.html#ga66cd6e3c5089ced9415a8a0e258d205a" title="Delete latest parameter. " alt="" coords="482,296,646,323"/>
+<area shape="rect" id="node11" href="$a00360.html#gafae08056186b143f3ef1399307dc9be7" title="Reads a string from wire and put in a DSTR. " alt="" coords="736,397,837,424"/>
+<area shape="rect" id="node12" href="$a00360.html#gae7d9c4e1a079e1d0aa0252732631e8c4" title="Get N bytes from the buffer and return them in the already allocated space given to us..." alt="" coords="989,397,1074,424"/>
+<area shape="rect" id="node13" href="$a00301.html#a7d6ccf355d1fc24711b5cd5bbc23a931" title="Set type of column initializing all dependency. " alt="" coords="709,245,864,272"/>
+<area shape="rect" id="node14" href="$a00362.html#ga0cf7e719115b0ae476753442d10505ab" title="Returns string representation of the given type. " alt="" coords="742,195,831,221"/>
+<area shape="rect" id="node15" href="$a00362.html#ga91770634ce8c0d6f1fe007b45da186fd" title="Adjust column size according to client&#39;s encoding. " alt="" coords="925,448,1137,475"/>
+<area shape="rect" id="node18" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="696,93,877,120"/>
+</map>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <include file="$(find ydlidar)/launch/mit_lidar.launch" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find ydlidar)/launch/lidar.rviz" />
+</launch>

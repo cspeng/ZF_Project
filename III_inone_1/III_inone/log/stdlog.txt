@@ -1,0 +1,22 @@
+Welcome, III inone starts here @2020
+
+local setup...
+--offset value at -0.4--
+app starts now.
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+read tool id None
+
+App end here.
+--- Data Source closed on 20-01-14 16:03:39 ---
+close serial SafePort.

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<launch>
+  <include file="$(find ydlidar)/launch/lidar.launch" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find ydlidar)/launch/lidar.rviz" />
+    
+  <node name="mitgo_panel" pkg="mitgo_tools" type="mitgo_panel.py" respawn="true" />
+  <node name="mitgo_reader" pkg="mitgo_tools" type="mitgo_reader.py" respawn="true" />
+  <node name="mitgo_base" pkg="mitgo_tools" type="mitgo_base.py" respawn="true" />  
+
+  <!--node name="mitgo_topic" pkg="mitgo_tools" type="mitgo_topic.py" respawn="true" /-->
+  <!--node name="mitgo_traffic" pkg="mitgo_tools" type="mitgo_traffic.py" respawn="true" /-->  
+
+  <!--include file="$(find dashgo_description)/launch/dashgo_description.launch"/-->
+  <!--node name="robot_pose_publisher" pkg="robot_pose_publisher" type="robot_pose_publisher" /-->
+  <!--node name="check_msg_socket"  pkg="dashgo_tools" type="tcp_server.py" output="screen"/-->
+  <!--node name="check_msg_interface" pkg="rosserial_server" type="socket_node" output="screen"
+    args="check_msg:=/interface" /-->
+
+</launch>

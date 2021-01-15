@@ -1,0 +1,11 @@
+<map id="tds7_build_bulk_insert_stmt" name="tds7_build_bulk_insert_stmt">
+<area shape="rect" id="node2" href="$a00196.html#ab45c291105027e69836002e1dd586141" title="Write a message to the debug log. " alt="" coords="737,85,839,112"/>
+<area shape="rect" id="node3" href="$a00359.html#ga50d62edeb2a432e2dc668263f3f958ff" title="Return declaration for column (like &quot;varchar(20)&quot;) " alt="" coords="248,85,447,112"/>
+<area shape="rect" id="node6" href="$a00196.html#abf18b98efef6ce2dc0b97d658a3a1918" title="Call the client library&#39;s error handler (for library&#45;generated errors only) " alt="" coords="311,161,383,188"/>
+<area shape="rect" id="node9" href="$a00359.html#ga8d8f2f1c91635ee95f30722208ae3043" title="Quote an id. " alt="" coords="296,237,399,264"/>
+<area shape="rect" id="node4" href="$a00359.html#ga440f0f469afad1eac4c008979873ccdd" title="Get column size for wire. " alt="" coords="511,60,659,87"/>
+<area shape="rect" id="node5" href="$a00196.html#ae7f4c4d5f7352f1c814284c536659e6f" title="Return type suitable for conversions (convert all nullable types to fixed type) " alt="" coords="495,111,676,137"/>
+<area shape="rect" id="node7" href="$a00359.html#ga11338742dc30fd0c2711f58eb830316f" title="tds_send_cancel() sends an empty packet (8 byte header only) tds_process_cancel should be called dire..." alt="" coords="521,212,650,239"/>
+<area shape="rect" id="node8" href="$a00360.html#ga5feb53554e8917a81bbbc332163a61fb" title="Flush packet to server. " alt="" coords="724,212,852,239"/>
+<area shape="rect" id="node10" href="$a00359.html#ga7efaa23c3b21158ffc963f85fbc3fdf4" title="Quote a string properly. " alt="" coords="543,263,627,289"/>
+</map>

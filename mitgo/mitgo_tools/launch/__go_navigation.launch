@@ -1,0 +1,26 @@
+<!-- -->
+<launch>
+  <include file="$(find dashgo_driver)/launch/demo_imu.launch"/>
+  <include file="$(find ydlidar)/launch/lidar.launch"/>
+
+  <node name="serial_node" pkg="rosserial_python" type="serial_node.py" output="screen">
+  <param name="port" value="/dev/port3"/>
+  <param name="baud" value="57600"/>
+  </node>
+  <node name="triogo_joystick" pkg="dashgo_tools" type="triogo_joystick.py" output="screen">
+  </node>
+
+  <include file="$(find dashgo_description)/launch/dashgo_description.launch"/>
+  <node name="robot_pose_publisher" pkg="robot_pose_publisher" type="robot_pose_publisher" />
+
+  <node name="triogo_track" pkg="dashgo_tools" type="triogo_track.py" output="screen"/>
+  <!--    <rosparam command="load" file="$(find dashgo_tools)/params/NAVI_F5D1.yaml" />
+  </node>  -->
+
+  <node name="check_msg_socket"  pkg="dashgo_tools" type="tcp_server.py" output="screen"/>
+
+  <node name="check_msg_interface" pkg="rosserial_server" type="socket_node" output="screen"
+    args="check_msg:=/interface" />
+
+</launch>
+

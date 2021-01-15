@@ -1,0 +1,26 @@
+<map id="_hstmt" name="_hstmt">
+<area shape="rect" id="node17" href="$a00034.html" title="_hdbc" alt="" coords="1633,545,1693,572"/>
+<area shape="rect" id="node2" href="$a00150.html" title="Information for a server connection. " alt="" coords="593,941,684,968"/>
+<area shape="rect" id="node8" href="$a00146.html" title="Hold information for any results. " alt="" coords="835,900,949,927"/>
+<area shape="rect" id="node3" href="$a00130.html" title="tds_login" alt="" coords="344,964,423,991"/>
+<area shape="rect" id="node4" href="$a00103.html" title="tds_capabilities" alt="" coords="5,1248,124,1275"/>
+<area shape="rect" id="node11" href="$a00109.html" title="tds_connection" alt="" coords="1352,1180,1471,1207"/>
+<area shape="rect" id="node5" href="$a00118.html" title="Structure to hold a string. " alt="" coords="28,256,101,283"/>
+<area shape="rect" id="node18" href="$a00032.html" title="_hcattr" alt="" coords="495,28,562,55"/>
+<area shape="rect" id="node21" href="$a00031.html" title="_drecord" alt="" coords="715,387,794,413"/>
+<area shape="rect" id="node25" href="$a00038.html" title="_hsattr" alt="" coords="983,311,1049,337"/>
+<area shape="rect" id="node6" href="$a00140.html" title="tds_packet" alt="" coords="338,913,429,940"/>
+<area shape="rect" id="node7" href="$a00119.html" title="Holds information for a dynamic (also called prepared) query. " alt="" coords="1091,1035,1193,1061"/>
+<area shape="rect" id="node9" href="$a00111.html" title="Holds informations about a cursor. " alt="" coords="1098,889,1186,916"/>
+<area shape="rect" id="node10" href="$a00112.html" title="tds_cursor_status" alt="" coords="825,736,959,763"/>
+<area shape="rect" id="node12" href="$a00122.html" title="Current environment as reported by the server. " alt="" coords="1106,1307,1178,1333"/>
+<area shape="rect" id="node13" href="$a00110.html" title="tds_context" alt="" coords="845,1155,939,1181"/>
+<area shape="rect" id="node23" href="$a00037.html" title="_henv" alt="" coords="1111,940,1173,967"/>
+<area shape="rect" id="node14" href="$a00099.html" title="tds_authentication" alt="" coords="1073,1155,1211,1181"/>
+<area shape="rect" id="node15" href="$a00164.html" title="tdsiconvinfo" alt="" coords="1093,1256,1191,1283"/>
+<area shape="rect" id="node16" href="$a00136.html" title="tds_mutex" alt="" coords="340,573,427,600"/>
+<area shape="rect" id="node19" href="$a00035.html" title="_hdesc" alt="" coords="1108,495,1176,521"/>
+<area shape="rect" id="node20" href="$a00030.html" title="_dheader" alt="" coords="851,471,933,497"/>
+<area shape="rect" id="node22" href="$a00044.html" title="_sql_errors" alt="" coords="845,685,939,712"/>
+<area shape="rect" id="node24" href="$a00036.html" title="_heattr" alt="" coords="859,1032,925,1059"/>
+</map>
